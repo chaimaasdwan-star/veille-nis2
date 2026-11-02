@@ -65,6 +65,11 @@ sources:
     pays: France
     type: rss
     url: https://kill-the-newsletter.com/feeds/xsvkrhjdxrg6xayccm5zncq5ha0naayexxddpzbl.xml
+
+  - nom: Journal officiel - sommaire quotidien
+    pays: France
+    type: rss
+    url: https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth.xml
   # ================= AUTRES PAYS : à ajouter ici =================
 
 
