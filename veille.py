@@ -27,10 +27,21 @@ ENTETES = {"User-Agent": "Mozilla/5.0 (veille-nis2; +open-source)"}
 
 
 def charger_etat():
+    etat = {"articles": {}, "pages": {}, "statut": {}}
     if os.path.exists(FICHIER_ETAT):
         with open(FICHIER_ETAT, encoding="utf-8") as f:
-            return json.load(f)
-    return {"articles": {}, "pages": {}}
+            etat.update(json.load(f))
+    etat.setdefault("statut", {})
+    return etat
+
+
+def noter_statut(etat, source, ok, change=False):
+    maintenant = datetime.now(timezone.utc).isoformat()
+    s = etat["statut"].setdefault(source["url"], {"depuis": maintenant, "dernier_changement": None})
+    s["ok"] = ok
+    s["derniere_verif"] = maintenant
+    if change:
+        s["dernier_changement"] = maintenant
 
 
 def themes_trouves(texte, themes):
@@ -52,7 +63,9 @@ def traiter_rss(source, themes, etat, erreurs):
         flux = feedparser.parse(reponse.content)
     except Exception as e:
         erreurs.append(f"{source['nom']} : {e}")
+        noter_statut(etat, source, False)
         return
+    noter_statut(etat, source, True)
     for entree in flux.entries:
         lien = entree.get("link") or entree.get("id")
         if not lien or lien in etat["articles"]:
@@ -78,6 +91,7 @@ def traiter_page(source, themes, etat, erreurs):
         reponse.raise_for_status()
     except Exception as e:
         erreurs.append(f"{source['nom']} : {e}")
+        noter_statut(etat, source, False)
         return
     soupe = BeautifulSoup(reponse.text, "html.parser")
     for balise in soupe(["script", "style", "nav", "header", "footer"]):
@@ -86,6 +100,7 @@ def traiter_page(source, themes, etat, erreurs):
     empreinte = hashlib.sha256(texte.encode()).hexdigest()
     ancienne = etat["pages"].get(source["url"])
     etat["pages"][source["url"]] = empreinte
+    noter_statut(etat, source, True, change=ancienne is not None and ancienne != empreinte)
     if ancienne is None or ancienne == empreinte:
         return  # première visite (référence enregistrée) ou aucun changement
     maintenant = datetime.now(timezone.utc)
@@ -130,6 +145,13 @@ def ecrire_rapports(etat, erreurs, sources):
             titre = a["titre"].replace("|", "-")
             md.append(f"| {a['date'][:10]} | {', '.join(a['themes'])} | {a['source']} | [{titre}]({a['lien']}) |")
         md.append("")
+    md.append(f"## Sources surveillées ({len(sources)})\n")
+    md.append("| Pays | Source | État |")
+    md.append("|---|---|---|")
+    for s in sources:
+        ok = etat["statut"].get(s["url"], {}).get("ok")
+        md.append(f"| {s['pays']} | [{s['nom']}]({s['url']}) | {'✅' if ok else '❌'} |")
+    md.append("")
     if erreurs:
         md.append("## Sources inaccessibles lors de la dernière collecte\n")
         md += [f"- {e}" for e in erreurs]
@@ -146,6 +168,28 @@ def ecrire_rapports(etat, erreurs, sources):
     )
     options = "".join(f"<option>{html.escape(p)}</option>" for p in pays_ordre)
     err = "".join(f"<li>{html.escape(e)}</li>" for e in erreurs)
+
+    def jour(iso):
+        return datetime.fromisoformat(iso).strftime("%d/%m/%Y") if iso else ""
+
+    lignes_sources = ""
+    for s in sources:
+        st = etat["statut"].get(s["url"], {})
+        ok = st.get("ok")
+        etat_txt = "✅ OK" if ok else ("❌ Inaccessible" if ok is False else "⏳ En attente")
+        if s["type"] == "page":
+            methode = "Surveillance de page"
+            suivi = (f"Dernier changement : {jour(st['dernier_changement'])}" if st.get("dernier_changement")
+                     else f"Aucun changement depuis le {jour(st.get('depuis'))}" if st.get("depuis") else "")
+        else:
+            methode = "Newsletter" if "kill-the-newsletter" in s["url"] else "Flux RSS"
+            nb = sum(1 for a in articles if a["source"] == s["nom"])
+            suivi = f"{nb} élément(s) retenu(s)"
+        lignes_sources += (
+            f"<tr data-pays='{html.escape(s['pays'])}'><td>{html.escape(s['pays'])}</td>"
+            f"<td><a href='{html.escape(s['url'])}' target='_blank'>{html.escape(s['nom'])}</a></td>"
+            f"<td>{methode}</td><td>{etat_txt}</td><td>{suivi}</td></tr>"
+        )
     page = f"""<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1"><title>Veille NIS 2</title>
 <style>body{{font-family:system-ui,sans-serif;max-width:1100px;margin:2rem auto;padding:0 1rem;color:#222}}
@@ -154,7 +198,9 @@ th{{background:#f4f4f4}}select{{padding:.3rem;margin:.5rem 0}}.err{{color:#a33}}
 <h1>Veille réglementaire NIS 2</h1><p>Mise à jour : {maj} — {len(articles)} élément(s) sur {JOURS_CONSERVES} jours</p>
 <label>Pays : <select id="f"><option value="">Tous</option>{options}</select></label>
 <table><thead><tr><th>Date</th><th>Pays</th><th>Thème</th><th>Source</th><th>Titre</th></tr></thead><tbody>{lignes}</tbody></table>
-{f'<h2>Sources inaccessibles</h2><ul class="err">{err}</ul>' if erreurs else ''}
+<h2>Sources surveillées ({len(sources)})</h2>
+<table><thead><tr><th>Pays</th><th>Source</th><th>Méthode</th><th>État</th><th>Suivi</th></tr></thead><tbody>{lignes_sources}</tbody></table>
+{f'<h2>Détail des erreurs</h2><ul class="err">{err}</ul>' if erreurs else ''}
 <script>document.getElementById('f').onchange=e=>document.querySelectorAll('tbody tr').forEach(r=>r.style.display=!e.target.value||r.dataset.pays===e.target.value?'':'none')</script>
 </body></html>"""
     os.makedirs(os.path.join(DOSSIER, "docs"), exist_ok=True)
