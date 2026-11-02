@@ -1,0 +1,27 @@
+name: Veille NIS 2
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # tous les jours à 6h UTC
+  workflow_dispatch:       # bouton "Run workflow" pour lancer à la main
+
+permissions:
+  contents: write
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python veille.py
+      - name: Enregistrer le rapport
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add rapport.md docs/index.html etat.json
+          git commit -m "Veille du $(date +%d/%m/%Y)" || echo "Rien de nouveau"
+          git push
