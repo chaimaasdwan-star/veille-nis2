@@ -59,6 +59,10 @@ sources:
     type: rss
     url: https://news.google.com/rss/search?q=NIS2+agroalimentaire&hl=fr&gl=FR&ceid=FR:fr
 
+  - nom: Newsletter ANSSI (MesServicesCyber)
+    pays: France
+    type: rss
+    url: https://kill-the-newsletter.com/feeds/xsvkrhjdxrg6xayccm5zncq5ha0naayexxddpzbl.xml
   # ================= AUTRES PAYS : à ajouter ici =================
 
 
