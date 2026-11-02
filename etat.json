@@ -349,6 +349,26 @@
    ],
    "date": "2026-10-01T07:00:00+00:00",
    "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVUFBR3JCN1g4Y1ZrVUxnRjZfdTE0Njh6TGhiV3phRHd4S25tTkQzMVpDX0pSU0tCWTZKZWFjRDQtSWw1cTR3cjdpMEVNdHAyRzdtZ3AwdXUyWGo0dEt4aFI1TkR5dHFRTEowU1JvVHByRHMzbm13UFBrd1VVV1pzdFJZMHB1cy1uWmxwMUdlUUdYUWJudlh1TmMtYlE4eTN1dlhQVy1tdjFkaUlzQ1g1Wk1oV0lIYVZ3eDVRaWcxQjZ2SEJid21QOENXM2dWdk9TTUk2WjY0UE00U1RsZGFtR0NrSDRONWtfRHZfVUswcm1WTzV2SlhMbmxDZEVIVXJGUTBBVmlmMjdDcVd0aWxBcXN2WQ?oc=5": {
+   "titre": "Plusieurs supermarchés victimes d'une cyberattaque contre leurs systèmes de réfrigération, des millions perdus en denrées alimentaires - La Crème Du Gaming",
+   "source": "Presse - NIS 2 agroalimentaire (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "Agroalimentaire"
+   ],
+   "date": "2026-10-14T07:00:00+00:00",
+   "type": "article"
+  },
+  "https://kill-the-newsletter.com/feeds/xsvkrhjdxrg6xayccm5zncq5ha0naayexxddpzbl/entries/zlv9mxy4w5amwsq1tn71otttf1j2vyk3srkumr9n.html": {
+   "titre": "💌 Confirmez votre abonnement à la newsletter MesServicesCyber",
+   "source": "Newsletter ANSSI (MesServicesCyber)",
+   "pays": "France",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-02T13:04:05+00:00",
+   "type": "article"
   }
  },
  "pages": {
@@ -356,6 +376,7 @@
   "https://www.enisa.europa.eu/news": "11434a88ce0999b303fa9a7510fbfec6290edcfdba1ee91a04bab04c960d4c28",
   "https://cyber.gouv.fr/la-directive-nis-2": "7de664911edf2e993542358dd3efabb65945d78bdf631c04e727a826470b5b74",
   "https://monespacenis2.cyber.gouv.fr/": "b3099d06b23309297b7ff8458884f86ea47b9569fcfd5e04f4d2b202959f8808",
-  "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731": "4b846529d3a15bd1be2149bf714231f008c03ec2da8df9d4838e56d28a5714b9"
+  "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731": "4b846529d3a15bd1be2149bf714231f008c03ec2da8df9d4838e56d28a5714b9",
+  "https://cyber.gouv.fr/actualites/": "0b696c47151aac4e3bf99f6cf20e18af73fa29b41b59440de05daa4d16039f8d"
  }
 }
