@@ -23,6 +23,11 @@ sources:
     url: https://www.service-public.gouv.fr/abonnements/rss/actu-actu-pro.rss
 
   # ================= FRANCE - pages surveillées =================
+  - nom: ANSSI - actualités
+    pays: France
+    type: page
+    url: https://cyber.gouv.fr/actualites/
+
   - nom: ANSSI - page NIS 2
     pays: France
     type: page
@@ -37,6 +42,11 @@ sources:
     pays: France
     type: page
     url: https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731
+
+  - nom: Gouvernement - actualités agriculture et agroalimentaire
+    pays: France
+    type: page
+    url: https://www.info.gouv.fr/toute-l-actualite/agriculture
 
   # ================= PRESSE (non officiel) =================
   - nom: Presse - NIS 2 (Google Actualités)
