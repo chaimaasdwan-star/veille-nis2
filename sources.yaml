@@ -43,10 +43,7 @@ sources:
     type: page
     url: https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731
 
-  - nom: Gouvernement - actualités agriculture et agroalimentaire
-    pays: France
-    type: page
-    url: https://www.info.gouv.fr/toute-l-actualite/agriculture
+
 
   # ================= PRESSE (non officiel) =================
   - nom: Presse - NIS 2 (Google Actualités)
