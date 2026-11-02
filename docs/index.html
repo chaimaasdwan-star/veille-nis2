@@ -1,0 +1,11 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><title>Veille NIS 2</title>
+<style>body{font-family:system-ui,sans-serif;max-width:1100px;margin:2rem auto;padding:0 1rem;color:#222}
+table{border-collapse:collapse;width:100%}td,th{border-bottom:1px solid #ddd;padding:.5rem;text-align:left;vertical-align:top}
+th{background:#f4f4f4}select{padding:.3rem;margin:.5rem 0}.err{color:#a33}</style></head><body>
+<h1>Veille réglementaire NIS 2</h1><p>Mise à jour : 02/11/2026 12:07 UTC — 0 élément(s) sur 60 jours</p>
+<label>Pays : <select id="f"><option value="">Tous</option><option>UE</option><option>France</option></select></label>
+<table><thead><tr><th>Date</th><th>Pays</th><th>Thème</th><th>Source</th><th>Titre</th></tr></thead><tbody></tbody></table>
+<h2>Sources inaccessibles</h2><ul class="err"><li>Sénat - dossier législatif loi Résilience : HTTPSConnectionPool(host=&#x27;www.senat.fr&#x27;, port=443): Max retries exceeded with url: /dossier-legislatif/pjl24-033.html (Caused by NewConnectionError(&quot;HTTPSConnection(host=&#x27;www.senat.fr&#x27;, port=443): Failed to establish a new connection: [Errno 101] Network is unreachable&quot;))</li></ul>
+<script>document.getElementById('f').onchange=e=>document.querySelectorAll('tbody tr').forEach(r=>r.style.display=!e.target.value||r.dataset.pays===e.target.value?'':'none')</script>
+</body></html>
