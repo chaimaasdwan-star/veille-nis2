@@ -1,5 +1,5 @@
 # Veille NIS 2
-_Mise à jour : 02/11/2026 13:32 UTC — 37 élément(s) sur 60 jours_
+_Mise à jour : 02/11/2026 13:36 UTC — 37 élément(s) sur 60 jours_
 
 ## France
 
