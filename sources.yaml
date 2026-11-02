@@ -1,0 +1,86 @@
+# =============================================================
+#  SOURCES DE LA VEILLE NIS 2
+#  -> Pour ajouter une source : copier un bloc et changer les valeurs.
+#  type: rss   = le site a un flux RSS (ou une newsletter passée par kill-the-newsletter.com)
+#  type: page  = pas de RSS : l'outil signale quand la page change
+#  Vérifier chaque URL une fois dans le navigateur avant de l'ajouter.
+# =============================================================
+
+sources:
+
+  # ---------------- UNION EUROPÉENNE ----------------
+  - nom: Commission européenne - page NIS 2
+    pays: UE
+    type: page
+    url: https://digital-strategy.ec.europa.eu/en/policies/nis2-directive
+
+  - nom: ENISA - actualités
+    pays: UE
+    type: page
+    url: https://www.enisa.europa.eu/news
+
+  # Newsletter ENISA via kill-the-newsletter.com : remplacer l'URL par celle du flux obtenu
+  # - nom: Newsletter ENISA
+  #   pays: UE
+  #   type: rss
+  #   url: https://kill-the-newsletter.com/feeds/XXXXXXXX.xml
+
+  # ---------------- FRANCE ----------------
+  - nom: CERT-FR (ANSSI)
+    pays: France
+    type: rss
+    url: https://www.cert.ssi.gouv.fr/feed/
+
+  - nom: ANSSI - page NIS 2
+    pays: France
+    type: page
+    url: https://cyber.gouv.fr/la-directive-nis-2
+
+  - nom: MonEspaceNIS2
+    pays: France
+    type: page
+    url: https://monespacenis2.cyber.gouv.fr/
+
+  - nom: Sénat - dossier législatif loi Résilience
+    pays: France
+    type: page
+    url: https://www.senat.fr/dossier-legislatif/pjl24-033.html
+
+  # Newsletter ANSSI via kill-the-newsletter.com
+  # - nom: Newsletter ANSSI
+  #   pays: France
+  #   type: rss
+  #   url: https://kill-the-newsletter.com/feeds/XXXXXXXX.xml
+
+  # ---------------- AUTRES PAYS : ajouter ici sur le même modèle ----------------
+  # - nom: BSI (Allemagne)
+  #   pays: Allemagne
+  #   type: page
+  #   url: https://...
+
+
+# =============================================================
+#  MOTS-CLÉS : un article est retenu s'il contient au moins un mot d'un thème
+#  (majuscules/minuscules ignorées). Ajouter les langues locales au fur et à mesure.
+# =============================================================
+
+themes:
+  NIS 2:
+    - nis2
+    - nis 2
+    - 2022/2555
+    - loi résilience
+    - recyf
+    - monespacenis2
+    - entité essentielle
+    - entité importante
+    - nis2umsucg        # Allemagne
+    - cyberbeveiligingswet  # Pays-Bas
+  Agroalimentaire:
+    - agroalimentaire
+    - denrées alimentaires
+    - industrie alimentaire
+    - food
+    - lebensmittel      # Allemagne
+    - voedsel           # Pays-Bas
+    - alimentar         # Espagne / Portugal / Italie
