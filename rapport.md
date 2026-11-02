@@ -1,5 +1,5 @@
 # Veille NIS 2
-_Mise à jour : 02/11/2026 17:28 UTC — 37 élément(s) sur 60 jours_
+_Mise à jour : 02/11/2026 17:39 UTC — 37 élément(s) sur 60 jours_
 
 ## France
 
@@ -48,7 +48,7 @@ _Mise à jour : 02/11/2026 17:28 UTC — 37 élément(s) sur 60 jours_
 | 2026-09-07 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Multiplication des cyber-attaques et fuites de données : le gouvernement n'a toujours pas fait voter la directive NIS 2 pour les éviter - France 3 Régions](https://news.google.com/rss/articles/CBMirwJBVV95cUxOSWE3emRIdjJ2eTNhSXJVZjBqQnVzN29Pd2hPODhhb2R4blNlZG5MdHRFcTdGSTlnaDlObjVqR3FYRWRlN2lPaW9uNUtObDJIdWtKQldqOU5wc3VBSFdyR1E4WjB4N1ZjenY0TE5VMl8yd2ptRGtYckVIdS1RcE45YjhMMDNZNDBKbG9lSl9ZdGdLVHZQSDAtTDNsOWNONnl1X2puenhuclhqQWNqM1FCQVBiS0dMcUtFWklZQkJSNkJqTHotOFVZOWR3Zm9ac1dKM3RwaE9LdkZVMjc5ako1RGdCeXozdV9rWXI1blNjNUlwYlpyLXN1eFJRRThOUGJsMnRIX29DTTluSnBJZXJtWEVtNEhDZ3dkT3VxYk9Wcm5PX2ZOakVicXpINjBhZzQ?oc=5) |
 | 2026-09-04 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Sécurité informatique : NIS2, RGPD et normes ISO, les fondamentaux de l’audit - Techniques de l'Ingénieur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSnR1OUlnN2piN20tQXdRRldTcHF4XzhRWWVoUWgyRUZRUHl5M1FiNVNxSllCNHJyUDFPOWowOC0tRjJESXBNdmxXa25kSVNMb1QzS1BaSWM4aUFvTWswT1lDV2FhcGFzNFdZX3VrRjREYVFPMXdrSzRWWUc5RDhHNm9QMTZJdF96WnZxbEZfdDktMHVhNFlGSWxSOFVIOXJZaTVfek14c2Q5dE1hVThXUkNhc2dORzJRS1R1TEFyVVhFUW1EM1M2QUpCemd5YmR6ZXRHMg?oc=5) |
 
-## Sources surveillées (12)
+## Sources surveillées (13)
 
 | Pays | Source | État |
 |---|---|---|
@@ -64,4 +64,5 @@ _Mise à jour : 02/11/2026 17:28 UTC — 37 élément(s) sur 60 jours_
 | Presse | [Presse - NIS 2 (Google Actualités)](https://news.google.com/rss/search?q=NIS2&hl=fr&gl=FR&ceid=FR:fr) | ✅ |
 | Presse | [Presse - NIS 2 agroalimentaire (Google Actualités)](https://news.google.com/rss/search?q=NIS2+agroalimentaire&hl=fr&gl=FR&ceid=FR:fr) | ✅ |
 | France | [Newsletter ANSSI (MesServicesCyber)](https://kill-the-newsletter.com/feeds/xsvkrhjdxrg6xayccm5zncq5ha0naayexxddpzbl.xml) | ✅ |
+| France | [Journal officiel - sommaire quotidien](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth.xml) | ✅ |
 
