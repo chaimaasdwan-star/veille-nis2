@@ -1,5 +1,126 @@
 {
- "articles": {},
+ "articles": {
+  "https://entreprendre.service-public.gouv.fr/actualites/A17731?xtor=RSS-112": {
+   "titre": "Du 1er au 31 octobre, devenez « cyber-responsable » avec le Cybermois !",
+   "source": "Service-Public - actualités entreprises",
+   "pays": "France",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-10-15T22:00:00+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcHFpa3JQYkVwSk9RM25YYjdsYXJDcFZ0SDkyazJmVW5ZWWYtZktWbmx2QUxuODZZSFBvWS1sanhLWGd4TXZKZVV3NzlpZEtnYVpRTDQ0UGxDWVhpRjNYTHNic1ZMQmJuQlJfSnRCZlRXLTYxTnlnbG96N2otM1hxVGl5Q1N4R2djQkpPWXlXMlB1MXZmR3l6alJKbjRBRmZDVnZTMVh3dUN5bWw1Sk5jemNYOGQyc2M?oc=5": {
+   "titre": "[MàJ] Caramba, encore raté : la transposition de NIS2 est de nouveau repoussée - Next INpact",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-10-06T07:00:00+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQREpaZDZlSTE1TTcxUW9pYThwa1JwS3VBZ0N4WF9YZVV1RWE5RFZUejJzcVI3ZFRHTERuMnQzUkx5aFJ3YWpXcjhTdkFQbFB3SzlNRTlmMmVFd2NDMURYTl9MWFM4TEdiZDRzazhZdGhfbHl0bDgwaDV1T2JTZnl2RFdRR21YcnowQzhLTmZlck04Rzc5TkxxaGU0MnFBeXlGU1MxUDVaV1JLUFlVbEQ2blZsa016UU5EenpkS1FzYXdtSmVIS3B4NWVTYXc0TjVwemM5LWNn?oc=5": {
+   "titre": "“Numérique pourri, cyber impossible”, derrière NIS2, le procès de la dette IT française - Alliancy",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-10-07T07:00:00+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DMWhEc3FyX0dpWVF0cG9DNWxndHJYOHQ2dEZoV2ozamp4V2ZXODY0aDhCekcwUi1DeXZWcXc3SU1DSENKNXM5QmNJRjF4NUpwc3FmUGhfRDRyLXpkc3dZNg?oc=5": {
+   "titre": "NIS 2 de nouveau reporté - Projet Arcadie",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-10-06T07:00:00+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdW5fcE9fcFNhemcwUW5BMlNZM0x4RGVscGhWTk51ZHVud3JRTS1UTkRZOE9yN3lqbC1zTUdIV2VoU3NKQ3dwQXNfdlZmS1VlaGdhRkFqQVhvQXhzOTZ6M19jOWM5S2VQTjl6R3AxLWZlbkhqb3BJUTJLMlZQc3hhNTVCVHJzWllGUjRrSU9TbUQ2SHVWVFNEeXFNdUlfMkwxYXNubkE5Rnh1ck1aYnpMeEtBdGFCa25tZWZRY3JLamhpbHZ6WWQtWHhDTHJqcnNjS0N6Z2hFWVo2R3VObWRMVmJsMnExX0M5blFBd3J2OA?oc=5": {
+   "titre": "Directive européenne NIS2 : Sécurité des Réseaux et des systèmes d’Information (SRI2) - https://www.republikgroup.com/",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-10-19T07:00:00+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMipAFBVV95cUxObXFjdU5tRjdCNEVXMzV1cUhJOG1FMlBzNE9Rd3F4SDJQc2RScjBvN1ZsOEV2NER1c1JHdEJKWUljemJaZHdSUTdNS3owMDZJNXdFa0JwTjg5MjdpeXN4TUdBUkFDT3VYV2UyWWFOY1FrS1dPOXdyOEJGNVE5NTBDQklvWEJHS0NWdGFyc2l0YVltY3dHeVMtYjRFd3RhQ2VNdzFGZQ?oc=5": {
+   "titre": "Cybersécurité et NIS2 : on ne protège bien que ce que l’on connaît - Solutions-Numeriques",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-10-21T17:02:43+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMitgJBVV95cUxNT3lwQVZUeHZ5bHZnVTRQQXBGczhfN3dRekZZcU9tMld1ZDlOa2I5M29YZ2NFdlJ0a0xJbVpqYTREV3ZaRzd6NFNQdEdhRm1VTktING1ZemFHeUZZTENwZXg5MVlyVldOVmEwSjVzZ0FHM2pza3JnaWtmTVQyUld6a0hVWHNhN2d5M3hmYy1GcTlOVHNHNW1TaDFLWnlkYVVQeV8tSC1ldHc3MTRlUGhPOUZHUC1pdldxYWZ6RWhwQlFRaFpyNzFpYkVqaEZrMmFGeUlGbmlCQVVuWXctWlVnTGNkYVlfeWRJVnlZa1ZnamhpOHEtLTc0UEhmZGJVLW1laFhGcFpzaEg2RHVsWnNCaW1pUjZGUHJnbzhqVGJsc0hNTHpxdXgxYXFPcDlwMV80ak80RGl3?oc=5": {
+   "titre": "Après deux ans de retard, la France traîne encore des pieds pour adopter NIS 2, tandis que les organisations encaissent les cyberattaques - L'Usine Digitale",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-10-06T07:00:00+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYWhsbjREel9ocjhsZEU4d1U1anNDamtqMk4yaDU1UlZfMEROcC12X2FYOTRYdTNVaEIxNTRzc3MwNFE2bDVSMklpaU9hVTVTU0lGQ1Jkc052TVk0SzNtVFBOdzk3aEJ3QzdOQ2czbHM1SkxWTG41YldZYm16bVU?oc=5": {
+   "titre": "2 ans de NIS2 : les entreprises belges sont-elles mieux protégées aujourd’hui ? - ITdaily.",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-10-21T10:41:10+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXVweWR1ZUVidHpyWVFoVDFsRmNqQXlBcjZSUHpWeTNZR3RvVzZidlkwSkZQMlBkRUJ2bzYxWDRDU3Q0NF8ta0dWWmtSUGRzZmhyWllYNTFWSUFtbnIzYjZfM0NrMXVSRW9hRWhrRmNrb0IxT3dDZEVDSVdHZzJFS0pRX1Y5RVNNVl8yM3RwbXhZNmwtRVlnOW9jamtlUTFvRGNDNDhvZkppYWc3RGRRWG5aM2xSOXMzdTIzbDVIRQ?oc=5": {
+   "titre": "La loi NIS2 encore reportée, nouveau camouflet pour la cybersécurité en France ! - Clubic",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-10-06T07:00:00+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb0plWXhkcTNuSFhlWUg0ZWJ3RnZjVF9pY0NzQWhVV1A3bGlkREJRdWg5RkE5RUY1dnRVWjB2WmZqa2hBR0NQUXJPRDA5TnBjcDdVbDA1eWFBNWc4WXJ2LUMxQzU3TDUwMWdxbFJTaEJWUm5nVTRueEVOUXUzbTFhUVc2bXROUGUyXzFXZ29XNTVfOFh5OTZkZGl2empDOUtWX25QSEhpOU9zaTZsbEQ3TmwwWHlYMk8xQk8tOXdQbnPSAcYBQVVfeXFMTmZ3WU1CNHNWcmdadXNtR0NDc1NEcWtaX1Q0M2lsVWFnOWx0TVJUNExqc3pRdVdXRkVMc2MzSTNtalJUWkVvd1ptYlk2VTlSNV9lOWtCOFdxbExmeURCTUFMbHlJRGhzZUZHenRaa0xENlBPMi1sa3JuZnJ0cHZ1OElzWnA4bmlDNVhJR3NzSEJIVjBoUU1fZXIxWHAxRTBvSGRGNlRYbHBfUDBkSmZ0dU42dmx2N21qODBtNlFTYUJpb3ZycTZ3?oc=5": {
+   "titre": "NIS2 : ce qu’il faut attendre du projet de loi examiné à l’Assemblée nationale - Silicon.fr",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-10-05T07:00:00+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVm9ZSy1qOVQ5TmxxWlhKT1ZIQW8zV2pjSTd0ZVJzNjRtR3JWakUybE52em9JMkg2Z1lFSS1QWWg4dE1pcWpOOWRrWUxBRWh1TUFIb1RPdHFfRWx5S01NQURBNlc4N204dnlERXhOX2I3eUJXVk5HSTViRkw0V3ExTVlRTTJZdVc2NVJ6enhTZTNjQmgyVHdHdTlSWFVMMk5lUUdmRFc3a3FUTWZMeUtDRDBab3BIcDFYUzVDYkQ2WE5WTE9kcFg5QThUOUFMSHRvcllfcGJNVjdxNXpvT0JrNmlMZ3Nmb1FpY0k1SV9rNmxQU05zRGg1ZVBBamhtSGFhOWFkSHVrdG01Nm1EY2pYQm50VjFQLTNINUFKbnpGUQ?oc=5": {
+   "titre": "NIS 2 : Failles exposées, périmètre incertain, loi en retard… les entreprises françaises face à un chantier qui n’attend pas - L'Usine Digitale",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-09-24T07:00:00+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjSUR2Y2todmxFdWpCdEVTRHpuc3hMdXdLc0dwbmhRdG1ONFhMWV9tZzFEQ2pkcTk2dkotdWZkallPeUtSSkNENXJNN2dpRE1FTEhKcEpPcTYyZnRwVXU4Vko2NUxoWFZyck1pd0NfT3cxVUtW?oc=5": {
+   "titre": "Cybersécurité : les banques en tête du classement NIS2 - lebigdata.fr",
+   "source": "Presse - NIS 2 agroalimentaire (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-10-08T07:00:00+00:00",
+   "type": "article"
+  }
+ },
  "pages": {
   "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive": "1c64cd3e5ee6455cdfcd9531a7102fcd520641cfa67f90ab7578ca7465a1c29a",
   "https://www.enisa.europa.eu/news": "11434a88ce0999b303fa9a7510fbfec6290edcfdba1ee91a04bab04c960d4c28",
