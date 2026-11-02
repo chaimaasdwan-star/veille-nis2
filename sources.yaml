@@ -41,10 +41,10 @@ sources:
     type: page
     url: https://monespacenis2.cyber.gouv.fr/
 
-  - nom: Sénat - dossier législatif loi Résilience
+  - nom: Assemblée nationale - dossier loi Résilience
     pays: France
     type: page
-    url: https://www.senat.fr/dossier-legislatif/pjl24-033.html
+    url: https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731
 
   # Newsletter ANSSI via kill-the-newsletter.com
   # - nom: Newsletter ANSSI
