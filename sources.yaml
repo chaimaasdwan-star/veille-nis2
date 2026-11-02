@@ -1,14 +1,6 @@
-# =============================================================
-#  SOURCES DE LA VEILLE NIS 2
-#  -> Pour ajouter une source : copier un bloc et changer les valeurs.
-#  type: rss   = le site a un flux RSS (ou une newsletter passée par kill-the-newsletter.com)
-#  type: page  = pas de RSS : l'outil signale quand la page change
-#  Vérifier chaque URL une fois dans le navigateur avant de l'ajouter.
-# =============================================================
-
 sources:
 
-  # ---------------- UNION EUROPÉENNE ----------------
+  # ================= UNION EUROPÉENNE =================
   - nom: Commission européenne - page NIS 2
     pays: UE
     type: page
@@ -19,68 +11,64 @@ sources:
     type: page
     url: https://www.enisa.europa.eu/news
 
-  # Newsletter ENISA via kill-the-newsletter.com : remplacer l'URL par celle du flux obtenu
-  # - nom: Newsletter ENISA
-  #   pays: UE
-  #   type: rss
-  #   url: https://kill-the-newsletter.com/feeds/XXXXXXXX.xml
-
-  # ---------------- FRANCE ----------------
-  - nom: CERT-FR (ANSSI)
+  # ================= FRANCE - flux RSS =================
+  - nom: CERT-FR - toutes les publications
     pays: France
     type: rss
-    url: https://www.cert.ssi.gouv.fr/feed/
+    url: https://cert.cyber.gouv.fr/feed/
 
+  - nom: Service-Public - actualités entreprises
+    pays: France
+    type: rss
+    url: https://www.service-public.gouv.fr/abonnements/rss/actu-actu-pro.rss
+
+  # ================= FRANCE - pages surveillées =================
   - nom: ANSSI - page NIS 2
     pays: France
     type: page
     url: https://cyber.gouv.fr/la-directive-nis-2
 
-  - nom: MonEspaceNIS2
+  - nom: ANSSI - MonEspaceNIS2
     pays: France
     type: page
     url: https://monespacenis2.cyber.gouv.fr/
 
-  - nom: Assemblée nationale - dossier loi Résilience
+  - nom: Assemblée nationale - dossier loi Résilience (NIS 2)
     pays: France
     type: page
     url: https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731
 
-  # Newsletter ANSSI via kill-the-newsletter.com
-  # - nom: Newsletter ANSSI
-  #   pays: France
-  #   type: rss
-  #   url: https://kill-the-newsletter.com/feeds/XXXXXXXX.xml
+  # ================= PRESSE (non officiel) =================
+  - nom: Presse - NIS 2 (Google Actualités)
+    pays: Presse
+    type: rss
+    url: https://news.google.com/rss/search?q=NIS2&hl=fr&gl=FR&ceid=FR:fr
 
-  # ---------------- AUTRES PAYS : ajouter ici sur le même modèle ----------------
-  # - nom: BSI (Allemagne)
-  #   pays: Allemagne
-  #   type: page
-  #   url: https://...
+  - nom: Presse - NIS 2 agroalimentaire (Google Actualités)
+    pays: Presse
+    type: rss
+    url: https://news.google.com/rss/search?q=NIS2+agroalimentaire&hl=fr&gl=FR&ceid=FR:fr
 
+  # ================= AUTRES PAYS : à ajouter ici =================
 
-# =============================================================
-#  MOTS-CLÉS : un article est retenu s'il contient au moins un mot d'un thème
-#  (majuscules/minuscules ignorées). Ajouter les langues locales au fur et à mesure.
-# =============================================================
 
 themes:
   NIS 2:
     - nis2
     - nis 2
     - 2022/2555
+    - résilience des infrastructures critiques
     - loi résilience
     - recyf
     - monespacenis2
     - entité essentielle
+    - entités essentielles
     - entité importante
-    - nis2umsucg        # Allemagne
-    - cyberbeveiligingswet  # Pays-Bas
+    - entités importantes
+    - cybersécurité
   Agroalimentaire:
     - agroalimentaire
+    - agro-alimentaire
     - denrées alimentaires
     - industrie alimentaire
     - food
-    - lebensmittel      # Allemagne
-    - voedsel           # Pays-Bas
-    - alimentar         # Espagne / Portugal / Italie
