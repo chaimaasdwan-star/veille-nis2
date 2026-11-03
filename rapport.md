@@ -1,5 +1,5 @@
 # Veille NIS 2
-_Mise à jour : 02/11/2026 17:39 UTC — 37 élément(s) sur 60 jours_
+_Mise à jour : 03/11/2026 06:50 UTC — 38 élément(s) sur 60 jours_
 
 ## France
 
@@ -12,6 +12,7 @@ _Mise à jour : 02/11/2026 17:39 UTC — 37 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-03 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Actualités Directive NIS 2 et RGPD - dpo partage](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXgzNFhvRDhWdTFfUUNYVk9XTUF1dWNBV2U0NVR1Z2l0SUIwT3ExM1p3dVhEcUFtZXFuSS0yWnBOQ2ZXZHZJamNVeWpvNFYyME5iWjBEcEJaVkxsRzVKSl9OamdnUThHY0d6VUdtRjE3dEoxcE5KZDlaeXU3QnJpbUdZcHJiYXg1?oc=5) |
 | 2026-10-27 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 dans lindustrie : transformer la contrainte en opportunité - 4CAD GROUP - Aerocontact.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdE1UWmpyNzRJdGZUN05kT2hqVnczZS1YQzJNUzhrd3RvYU5qWnhJdlNnYzQ2UWtKVFZyRnprNlhmQklhcHlBWldSTHV6c3UzT2t5aFQ4VEYyaUc1dEZrblNmX0JMUzlrRV91MjNQOENSdjFDYTR3UXhvaDhzMGtLcHB0cHM3dGtNMHpGSlBRZlpzS0d2R01kaW9ZRHM1TE9FcWdraUxKRQ?oc=5) |
 | 2026-10-23 | NIS 2 | Presse - NIS 2 (Google Actualités) | [2 ans de NIS2 : de la directive à la réalité - CCB Belgium](https://news.google.com/rss/articles/CBMifkFVX3lxTE5JckNqbTVISnN6a1VLU0hzVDNrLVg0QWZvOXRBV0V5d2owTEpGeUc4R1g2Tk84Y1NBUWhGdkV2a0FaTnpZZ1pkcWEzaER0RDFZemg4QW1SSDRRRlhVSmhnQWdwbmxnOXBadE0xMjRJN2hycUZwMHdVdDg2dVZidw?oc=5) |
 | 2026-10-22 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cyberattaques, IA, NIS2 : les rendez-vous à ne pas manquer à Cloud & Cyber Security Expo Paris 2026 - Solutions-Numeriques](https://news.google.com/rss/articles/CBMiywFBVV95cUxQcllEbU4yUjRVTFF0bjRER2F6UWQ0Z05tTDVVSXdvOHVWTkZXWnZ1TVhwNFRQY2NBbHN3N1VuNjVWX1lzb0p6eFdWc1FCa0l4UzRYNjhvczM2R1htcEtlN1lFMXUwRVJCa2FHOWJPOGRPcE81YllETlVvZzUxdHY3bEh2QVJqekMycUZ3OWk3SWVhbEZZRF96WmdqS1hKamxYTkItUlQtTC1SUkkyck1rOVkwbzZ1anZWXzlfT0dYazc4V3p4c2tXa3hwcw?oc=5) |

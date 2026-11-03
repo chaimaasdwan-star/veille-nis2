@@ -369,6 +369,16 @@
    ],
    "date": "2026-11-02T13:04:05+00:00",
    "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXgzNFhvRDhWdTFfUUNYVk9XTUF1dWNBV2U0NVR1Z2l0SUIwT3ExM1p3dVhEcUFtZXFuSS0yWnBOQ2ZXZHZJamNVeWpvNFYyME5iWjBEcEJaVkxsRzVKSl9OamdnUThHY0d6VUdtRjE3dEoxcE5KZDlaeXU3QnJpbUdZcHJiYXg1?oc=5": {
+   "titre": "Actualités Directive NIS 2 et RGPD - dpo partage",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-03T01:52:30+00:00",
+   "type": "article"
   }
  },
  "pages": {
@@ -385,79 +395,79 @@
    "depuis": "2026-11-02T13:32:36.518909+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:04.159043+00:00"
+   "derniere_verif": "2026-11-03T06:49:58.809462+00:00"
   },
   "https://www.enisa.europa.eu/news": {
    "depuis": "2026-11-02T13:32:36.850106+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:04.371310+00:00"
+   "derniere_verif": "2026-11-03T06:49:59.892152+00:00"
   },
   "https://cert.cyber.gouv.fr/feed/": {
    "depuis": "2026-11-02T13:32:37.138087+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:04.532389+00:00"
+   "derniere_verif": "2026-11-03T06:50:00.120604+00:00"
   },
   "https://www.service-public.gouv.fr/abonnements/rss/actu-actu-pro.rss": {
    "depuis": "2026-11-02T13:32:38.519383+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:05.753111+00:00"
+   "derniere_verif": "2026-11-03T06:50:01.904467+00:00"
   },
   "https://cyber.gouv.fr/actualites/": {
    "depuis": "2026-11-02T13:32:39.273270+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:06.715366+00:00"
+   "derniere_verif": "2026-11-03T06:50:02.455102+00:00"
   },
   "https://cyber.gouv.fr/la-directive-nis-2": {
    "depuis": "2026-11-02T13:32:40.165751+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:07.525913+00:00"
+   "derniere_verif": "2026-11-03T06:50:03.295731+00:00"
   },
   "https://monespacenis2.cyber.gouv.fr/": {
    "depuis": "2026-11-02T13:32:41.777185+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:09.139870+00:00"
+   "derniere_verif": "2026-11-03T06:50:05.454741+00:00"
   },
   "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731": {
    "depuis": "2026-11-02T13:32:42.343778+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:10.667476+00:00"
+   "derniere_verif": "2026-11-03T06:50:07.786054+00:00"
   },
   "https://news.google.com/rss/search?q=NIS2&hl=fr&gl=FR&ceid=FR:fr": {
    "depuis": "2026-11-02T13:32:42.896607+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:11.186280+00:00"
+   "derniere_verif": "2026-11-03T06:50:08.291675+00:00"
   },
   "https://news.google.com/rss/search?q=NIS2+agroalimentaire&hl=fr&gl=FR&ceid=FR:fr": {
    "depuis": "2026-11-02T13:32:43.181826+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:11.454933+00:00"
+   "derniere_verif": "2026-11-03T06:50:08.686505+00:00"
   },
   "https://kill-the-newsletter.com/feeds/xsvkrhjdxrg6xayccm5zncq5ha0naayexxddpzbl.xml": {
    "depuis": "2026-11-02T13:32:43.605091+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:11.819371+00:00"
+   "derniere_verif": "2026-11-03T06:50:09.289048+00:00"
   },
   "https://messervices.cyber.gouv.fr/nis2/": {
    "depuis": "2026-11-02T17:28:55.527890+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:10.048781+00:00"
+   "derniere_verif": "2026-11-03T06:50:06.834430+00:00"
   },
   "https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth.xml": {
    "depuis": "2026-11-02T17:39:12.129449+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-02T17:39:12.129449+00:00"
+   "derniere_verif": "2026-11-03T06:50:09.818223+00:00"
   }
  }
 }
