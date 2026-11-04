@@ -1,10 +1,13 @@
 # Veille NIS 2
-_Mise à jour : 03/11/2026 06:50 UTC — 38 élément(s) sur 60 jours_
+_Mise à jour : 04/11/2026 06:54 UTC — 41 élément(s) sur 60 jours_
 
 ## France
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-04 | NIS 2 | ANSSI - page NIS 2 | [La page « ANSSI - page NIS 2 » a été modifiée](https://cyber.gouv.fr/la-directive-nis-2) |
+| 2026-11-04 | NIS 2 | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
+| 2026-11-04 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0258 DU 04 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/ykuju759mpid8gfv7m0ku8pre3ajrd3qtn2rvlv1.html) |
 | 2026-11-02 | NIS 2 | Newsletter ANSSI (MesServicesCyber) | [💌 Confirmez votre abonnement à la newsletter MesServicesCyber](https://kill-the-newsletter.com/feeds/xsvkrhjdxrg6xayccm5zncq5ha0naayexxddpzbl/entries/zlv9mxy4w5amwsq1tn71otttf1j2vyk3srkumr9n.html) |
 | 2026-10-15 | NIS 2 | Service-Public - actualités entreprises | [Du 1er au 31 octobre, devenez « cyber-responsable » avec le Cybermois !](https://entreprendre.service-public.gouv.fr/actualites/A17731?xtor=RSS-112) |
 
@@ -12,6 +15,7 @@ _Mise à jour : 03/11/2026 06:50 UTC — 38 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-03 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 en hémicycle en cas de rejet du budget - Projet Arcadie](https://news.google.com/rss/articles/CBMie0FVX3lxTE9JMXJISFdVekwwSjRXcDg1bmJhQm9IQTJYbWoyOXlUQV9USmRYVnl3M1hJcDBYbjRLRVRTaUZ3bS1DMW1WNXZ6R1Jrc3pNOWR0TE5PV0xETUZaUXFqTUxpZVUtNVA1MUNDMmxpME5XTVVSN0dtSlJhTVRDYw?oc=5) |
 | 2026-11-03 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Actualités Directive NIS 2 et RGPD - dpo partage](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXgzNFhvRDhWdTFfUUNYVk9XTUF1dWNBV2U0NVR1Z2l0SUIwT3ExM1p3dVhEcUFtZXFuSS0yWnBOQ2ZXZHZJamNVeWpvNFYyME5iWjBEcEJaVkxsRzVKSl9OamdnUThHY0d6VUdtRjE3dEoxcE5KZDlaeXU3QnJpbUdZcHJiYXg1?oc=5) |
 | 2026-10-27 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 dans lindustrie : transformer la contrainte en opportunité - 4CAD GROUP - Aerocontact.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdE1UWmpyNzRJdGZUN05kT2hqVnczZS1YQzJNUzhrd3RvYU5qWnhJdlNnYzQ2UWtKVFZyRnprNlhmQklhcHlBWldSTHV6c3UzT2t5aFQ4VEYyaUc1dEZrblNmX0JMUzlrRV91MjNQOENSdjFDYTR3UXhvaDhzMGtLcHB0cHM3dGtNMHpGSlBRZlpzS0d2R01kaW9ZRHM1TE9FcWdraUxKRQ?oc=5) |
 | 2026-10-23 | NIS 2 | Presse - NIS 2 (Google Actualités) | [2 ans de NIS2 : de la directive à la réalité - CCB Belgium](https://news.google.com/rss/articles/CBMifkFVX3lxTE5JckNqbTVISnN6a1VLU0hzVDNrLVg0QWZvOXRBV0V5d2owTEpGeUc4R1g2Tk84Y1NBUWhGdkV2a0FaTnpZZ1pkcWEzaER0RDFZemg4QW1SSDRRRlhVSmhnQWdwbmxnOXBadE0xMjRJN2hycUZwMHdVdDg2dVZidw?oc=5) |
@@ -47,7 +51,6 @@ _Mise à jour : 03/11/2026 06:50 UTC — 38 élément(s) sur 60 jours_
 | 2026-09-14 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Guide : comment avancer sur le projet de mise en conformité NIS2 avec le référentiel ReCyF - Zataz](https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHV6YjlaN3J0TzVnOFVFa1JDZEhKNHRtSE9McUVsUU1abW1UMXUzLVk5S01tdFkzMV9vX3NWRHlDVm1kdUVBdDUweWFGQkRXTFBqVjhqai1IVUR0V0JyTjBaOGxsSmlLZlFlWm1KYXJnVnpkam9ZUGF3MXByNTEyODFRZm5mZ1MybmNnempVSW9fdzI0ckRYLUFZV0Z3U1FrOE96d29jTlBSM2E5TE5pcg?oc=5) |
 | 2026-09-10 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Directive NIS2 : la France face au défi de sa maturité cyber - Silicon.fr](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaGlSaktVb2ZuUWZLRG9jdUhXS09kd1Z5VUtsSkZOcjI1STMwLV9adXktWFhhY2V0RkRfeDhCcWhPNWlXS1NxbmFYQnUtSE1jZXZpRlptTVdpRWh4RGs5akpva3lud0pkNUF5aUljcFk0UjVKZ3BrU0Z5WnhGcy1rOWREWEk1c3pnOS1oZ3FpWVBtQkd2b05acjFGVGY4X0djSThPVlo4WG03YWfSAbABQVVfeXFMTlJmOUFzSnBMQ3hIb3ByQ2F0N2hrOGF4RWJDQmdJNTFGcFNGdEdMYVNIUHBZb0NGVFU3V19JMXdPTUNTN2dMdTJMYjdDVG90Y01KUUlTVXNqS1lWZmpqb0dybGR0Yjg2YkVqeV8yUVZUcU9vSlZlNUw4QVE1SlhGMVNRMHI4dmFJODF6dEpQaVZuTHBaV1dLZ1l0OUw1TzhDMmo4UFJ6SW9GNEY1VXZPS3o?oc=5) |
 | 2026-09-07 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Multiplication des cyber-attaques et fuites de données : le gouvernement n'a toujours pas fait voter la directive NIS 2 pour les éviter - France 3 Régions](https://news.google.com/rss/articles/CBMirwJBVV95cUxOSWE3emRIdjJ2eTNhSXJVZjBqQnVzN29Pd2hPODhhb2R4blNlZG5MdHRFcTdGSTlnaDlObjVqR3FYRWRlN2lPaW9uNUtObDJIdWtKQldqOU5wc3VBSFdyR1E4WjB4N1ZjenY0TE5VMl8yd2ptRGtYckVIdS1RcE45YjhMMDNZNDBKbG9lSl9ZdGdLVHZQSDAtTDNsOWNONnl1X2puenhuclhqQWNqM1FCQVBiS0dMcUtFWklZQkJSNkJqTHotOFVZOWR3Zm9ac1dKM3RwaE9LdkZVMjc5ako1RGdCeXozdV9rWXI1blNjNUlwYlpyLXN1eFJRRThOUGJsMnRIX29DTTluSnBJZXJtWEVtNEhDZ3dkT3VxYk9Wcm5PX2ZOakVicXpINjBhZzQ?oc=5) |
-| 2026-09-04 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Sécurité informatique : NIS2, RGPD et normes ISO, les fondamentaux de l’audit - Techniques de l'Ingénieur](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSnR1OUlnN2piN20tQXdRRldTcHF4XzhRWWVoUWgyRUZRUHl5M1FiNVNxSllCNHJyUDFPOWowOC0tRjJESXBNdmxXa25kSVNMb1QzS1BaSWM4aUFvTWswT1lDV2FhcGFzNFdZX3VrRjREYVFPMXdrSzRWWUc5RDhHNm9QMTZJdF96WnZxbEZfdDktMHVhNFlGSWxSOFVIOXJZaTVfek14c2Q5dE1hVThXUkNhc2dORzJRS1R1TEFyVVhFUW1EM1M2QUpCemd5YmR6ZXRHMg?oc=5) |
 
 ## Sources surveillées (13)
 
