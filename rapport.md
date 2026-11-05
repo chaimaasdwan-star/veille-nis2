@@ -1,10 +1,20 @@
 # Veille NIS 2
-_Mise à jour : 04/11/2026 06:54 UTC — 41 élément(s) sur 60 jours_
+_Mise à jour : 05/11/2026 06:55 UTC — 47 élément(s) sur 60 jours_
+
+## UE
+
+| Date | Thème | Source | Titre |
+|---|---|---|---|
+| 2026-11-05 | (à vérifier) | ENISA - actualités | [La page « ENISA - actualités » a été modifiée](https://www.enisa.europa.eu/news) |
 
 ## France
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-05 | NIS 2 | Assemblée nationale - dossier loi Résilience (NIS 2) | [La page « Assemblée nationale - dossier loi Résilience (NIS 2) » a été modifiée](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731) |
+| 2026-11-05 | NIS 2, Agroalimentaire | ANSSI - MesServicesCyber NIS 2 | [La page « ANSSI - MesServicesCyber NIS 2 » a été modifiée](https://messervices.cyber.gouv.fr/nis2/) |
+| 2026-11-05 | NIS 2, Agroalimentaire | ANSSI - MonEspaceNIS2 | [La page « ANSSI - MonEspaceNIS2 » a été modifiée](https://monespacenis2.cyber.gouv.fr/) |
+| 2026-11-04 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0259 DU 05 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/zkr4qtdikqarfsuvec2ckchlecxpejfpfc1pv40f.html) |
 | 2026-11-04 | NIS 2 | ANSSI - page NIS 2 | [La page « ANSSI - page NIS 2 » a été modifiée](https://cyber.gouv.fr/la-directive-nis-2) |
 | 2026-11-04 | NIS 2 | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
 | 2026-11-04 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0258 DU 04 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/ykuju759mpid8gfv7m0ku8pre3ajrd3qtn2rvlv1.html) |
@@ -15,6 +25,7 @@ _Mise à jour : 04/11/2026 06:54 UTC — 41 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-04 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Conscio Technologies présente un nouveau livre blanc sur NIS2 - Solutions-Numeriques](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZlWWE5VkhiM1B4OUtrT2QydGZ0ZnpQWWdTaF9hd0RXMElVVG1HX2pmNGN5Sk5OMXR6elNwMk93MW9HbEdscUl6RHpEOU5lc1A3R1l1SElhbWtTa09mNkJYQUZEMjVwMm5Qbll0MzZaYkVTUnBldXRMaUIwRnEzNi1MR080MmNEZUhNblh6WEEteW1rdzF0UDQ5UlVSU0JiczJyTEJ3ZWxtdUlyaVBweg?oc=5) |
 | 2026-11-03 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 en hémicycle en cas de rejet du budget - Projet Arcadie](https://news.google.com/rss/articles/CBMie0FVX3lxTE9JMXJISFdVekwwSjRXcDg1bmJhQm9IQTJYbWoyOXlUQV9USmRYVnl3M1hJcDBYbjRLRVRTaUZ3bS1DMW1WNXZ6R1Jrc3pNOWR0TE5PV0xETUZaUXFqTUxpZVUtNVA1MUNDMmxpME5XTVVSN0dtSlJhTVRDYw?oc=5) |
 | 2026-11-03 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Actualités Directive NIS 2 et RGPD - dpo partage](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXgzNFhvRDhWdTFfUUNYVk9XTUF1dWNBV2U0NVR1Z2l0SUIwT3ExM1p3dVhEcUFtZXFuSS0yWnBOQ2ZXZHZJamNVeWpvNFYyME5iWjBEcEJaVkxsRzVKSl9OamdnUThHY0d6VUdtRjE3dEoxcE5KZDlaeXU3QnJpbUdZcHJiYXg1?oc=5) |
 | 2026-10-27 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 dans lindustrie : transformer la contrainte en opportunité - 4CAD GROUP - Aerocontact.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQdE1UWmpyNzRJdGZUN05kT2hqVnczZS1YQzJNUzhrd3RvYU5qWnhJdlNnYzQ2UWtKVFZyRnprNlhmQklhcHlBWldSTHV6c3UzT2t5aFQ4VEYyaUc1dEZrblNmX0JMUzlrRV91MjNQOENSdjFDYTR3UXhvaDhzMGtLcHB0cHM3dGtNMHpGSlBRZlpzS0d2R01kaW9ZRHM1TE9FcWdraUxKRQ?oc=5) |
