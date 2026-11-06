@@ -1,16 +1,18 @@
 # Veille NIS 2
-_Mise à jour : 05/11/2026 06:55 UTC — 47 élément(s) sur 60 jours_
+_Mise à jour : 06/11/2026 06:55 UTC — 49 élément(s) sur 60 jours_
 
 ## UE
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-06 | (à vérifier) | ENISA - actualités | [La page « ENISA - actualités » a été modifiée](https://www.enisa.europa.eu/news) |
 | 2026-11-05 | (à vérifier) | ENISA - actualités | [La page « ENISA - actualités » a été modifiée](https://www.enisa.europa.eu/news) |
 
 ## France
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-05 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0260 DU 06 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/ucz9di5socd85ob1uclsgzjfx3ztc3f6271ffe2b.html) |
 | 2026-11-05 | NIS 2 | Assemblée nationale - dossier loi Résilience (NIS 2) | [La page « Assemblée nationale - dossier loi Résilience (NIS 2) » a été modifiée](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731) |
 | 2026-11-05 | NIS 2, Agroalimentaire | ANSSI - MesServicesCyber NIS 2 | [La page « ANSSI - MesServicesCyber NIS 2 » a été modifiée](https://messervices.cyber.gouv.fr/nis2/) |
 | 2026-11-05 | NIS 2, Agroalimentaire | ANSSI - MonEspaceNIS2 | [La page « ANSSI - MonEspaceNIS2 » a été modifiée](https://monespacenis2.cyber.gouv.fr/) |
