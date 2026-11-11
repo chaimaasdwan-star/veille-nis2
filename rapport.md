@@ -1,10 +1,11 @@
 # Veille NIS 2
-_Mise à jour : 10/11/2026 06:50 UTC — 72 élément(s) sur 60 jours_
+_Mise à jour : 11/11/2026 06:53 UTC — 78 élément(s) sur 60 jours_
 
 ## UE
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-11 | (à vérifier) | ENISA - actualités | [La page « ENISA - actualités » a été modifiée](https://www.enisa.europa.eu/news) |
 | 2026-11-06 | (à vérifier) | ENISA - actualités | [La page « ENISA - actualités » a été modifiée](https://www.enisa.europa.eu/news) |
 | 2026-11-05 | (à vérifier) | ENISA - actualités | [La page « ENISA - actualités » a été modifiée](https://www.enisa.europa.eu/news) |
 
@@ -12,6 +13,8 @@ _Mise à jour : 10/11/2026 06:50 UTC — 72 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-11 | NIS 2 | Assemblée nationale - dossier loi Résilience (NIS 2) | [La page « Assemblée nationale - dossier loi Résilience (NIS 2) » a été modifiée](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731) |
+| 2026-11-11 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0264 DU 11 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/ej3slja3x7aeum5zpqnp5zn4vw0ny5zm7ggcnwv5.html) |
 | 2026-11-10 | NIS 2 | Assemblée nationale - dossier loi Résilience (NIS 2) | [La page « Assemblée nationale - dossier loi Résilience (NIS 2) » a été modifiée](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731) |
 | 2026-11-10 | NIS 2 | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
 | 2026-11-09 | NIS 2 | Newsletter ANSSI (MesServicesCyber) | [🤝 Rejoignez la communauté MesServicesCyber / Innovation ANSSI !](https://kill-the-newsletter.com/feeds/xsvkrhjdxrg6xayccm5zncq5ha0naayexxddpzbl/entries/flb0oc09yjdisx9c26j0tqwrcuqc4pjmlhlcgcks.html) |
@@ -36,6 +39,9 @@ _Mise à jour : 10/11/2026 06:50 UTC — 72 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-10 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS2, DORA, CRA : ce que le Bercy de la Cyber révèle du retard français en cybersécurité - Portail de l'IE](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeGdMVzMyWmtJVG5lWWFqekJSZ1VTS3gwNHN5cUN3SGx0SXItSE00RjJoU1RFTWs3TmEybWtOa1dQLVpNTURoZjhHZFVVUzIzeV9ud0E2cFdYaGEwQTJBbDd6c1R0SjRNejhqV05OWTdlR2xxWXBBQVdka0ZwazhGejBwOHB4eGNVZGZRUm9mRGl5NkE0d2hOV0RwbDZacEM2WEozMnQyTGRfUklJam1VRXpHM2w3Mms1NGhOOWxsNUJ4aWwyNjd0ZlFkdzdmSjVCYWFMN1RhRlBKS0VoRzJHMGdlTUhrTHBZ?oc=5) |
+| 2026-11-10 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cybersécurité : alors que le projet de loi NIS2 est enfin débattu, la Cnil inflige des amendes à 10 collectivités - Banque des Territoires](https://news.google.com/rss/articles/CBMi6wJBVV95cUxQckhDa0VDZ2hlN2lwdW9WTjBJVmZvNDBZallzbHN3djNRRjFBbVN4bFdYRjRKcTNySG52RXJnaF93dW11Smt4QjJaR2U4aEI3LUFHZUpzWnE5SVZLMUVuNkVJZmdCMXpLUmJNQ0ZhWF8xalNyN0hSZDh5ekI5a1hRN3VMbUFZWG56RnhsY0dYZHMtTmliTndaMVUyV0FJcXRJSlExcDh6U2d0YTVtUUxyZ2FySTlRR1VWT0VVR2pOVmlYSGVmVWpwVlYyTGw2T3N4WDl1YVYzMzNlT2x2OUxpVFg2TFBlcGMtMmtBY3hYakVpbmlDTTBnekJJd2xVNkI1aDIyNkJ1dUxJVXZqODQ4T1V0R2VFOWEwanNGMXVUcU1MbXNSSDhWSVdSVWExeHdaVGFMQWtKV2QyY3M1M29OWS14YTF3Uk9RVWtmeFpET3hlalVobkIwZl92TUQtM3pCdFgyalQyYmg2Mm8?oc=5) |
+| 2026-11-10 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS2 et infrastructures critiques, qui est concerné et le rôle du CISO - Pasquale Pillitteri](https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzhVaDV0WFdDVVhnX2lqZGxNTHFxUFk3Mldkc0VORlZHSWVFeld0WDM3X09iYXJHR21mV1VhNVhoQ2N2emh6RTRKUW9NaENBMUlTVUwyTGoxQ1MxZG1tM0JhNnhiNjNpTTFuTUwzM0ZSUFBjMkg1XzdIMmZTQ3hjWnU5OFRvUEFtcWg4SA?oc=5) |
 | 2026-11-10 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cybersécurité en France : Une loi plus stricte suffira-t-elle à rattraper le retard ? - EmarketerZ](https://news.google.com/rss/articles/CBMirAFBVV95cUxONzhTT3ZCVHRtX2NlQUpOZUtFaGdtSFNzanI5LVhOdGZ3RzlEV1R6bXFDMmViZVNUZXk2S0JqSTlOTEVCN3FEQWxybkxZVWRYUVFoSjRQa0tld0plS19rcS05UjNaX3hLMkljQ1Z1Y1JjemFCRVVGZ2E5YldCbU1oOHYzVEFpUEVkbFNiSXJUazFzU1pNempiZ2oxa193TkxyaE1xRGxqQ2pMbnlT?oc=5) |
 | 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cybersécurité : la CNIL sanctionne dix collectivités - Zataz](https://news.google.com/rss/articles/CBMifkFVX3lxTFBaMEl2WFNzMnJSUlR1WktkS25lblR5M3N6Vk9zcFZDUk8tbTZROEFsUUw5VnFBX2diTXpSYzVJMXlNOUxWZlk0bHdZQnlNOXlxZEw2ZjRKSm5mUGlsSnk3S3pHM1NZaFhVckN6S2V2a1FVM1lZUk1RQ0hmUEljQQ?oc=5) |
 | 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS2 et CRA, les différences et comment les gérer avec un seul système - Pasquale Pillitteri](https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0hfV19GVUwyNE5jbFFLQ3FYZ0JqeUhoZUxMcFdIc21ody1iQ2Jfd0JkYWlVZUF6MVphUm9KNnQ0WDZEX3FUbXdCajhtMVVxLVF6QU5ST3daOGFUZWpuWnhiNmphdUR4MUUtbEFpaFpsUlZvMDV1XzJtdFdrZ0VtdFR3?oc=5) |
