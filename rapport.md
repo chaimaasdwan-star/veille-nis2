@@ -1,5 +1,5 @@
 # Veille NIS 2
-_Mise à jour : 14/11/2026 06:43 UTC — 93 élément(s) sur 60 jours_
+_Mise à jour : 15/11/2026 06:47 UTC — 95 élément(s) sur 60 jours_
 
 ## UE
 
@@ -14,6 +14,7 @@ _Mise à jour : 14/11/2026 06:43 UTC — 93 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-14 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0267 DU 15 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/x4dyy6eqahgl0ztcxroszy5245gvxblu64dtm73a.html) |
 | 2026-11-14 | NIS 2 | ANSSI - page NIS 2 | [La page « ANSSI - page NIS 2 » a été modifiée](https://cyber.gouv.fr/la-directive-nis-2) |
 | 2026-11-14 | NIS 2 | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
 | 2026-11-14 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0266 DU 14 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/hm6q7g8yyxk7jzah6kmxr18jwedmz4ol2d7q9fwo.html) |
@@ -70,6 +71,7 @@ _Mise à jour : 14/11/2026 06:43 UTC — 93 élément(s) sur 60 jours_
 | 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cybersécurité : ce qui pourrait bientôt changer pour des milliers d’entreprises françaises - CNET France](https://news.google.com/rss/articles/CBMixAFBVV95cUxNS3NYMHNlUGN6ZUlPVXRIUmd6dVdqVXQxMExpWTE0RjMxcUxFcnBHTThQRU5LQWl2MXBIdEJKdzJINFZoZEFXdWlJR3FESkpBN3pGQWNlTHNyRDZOTm5wMzJYLVVldDFUbnl1RXJGejlSV3BMRFB4X2VvRzhnejBFTVFXRXE3N2hqZG5XZnFiSDRQVUVsclNjd2g5VXhLaVM4WXliLXlmbHpKdUxoYU9pR056cXVtV2l1NkNsNy02ZXNkYXNV?oc=5) |
 | 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 en séance au Parlement, la loi Résilience oblige à repenser la continuité avec les tiers - it social](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNmZYMnpNbHMzQjBZZGRrU1hWQUczUm1kNzJRVTRvU2FBbmVhbHBoMGdxZ1RQZ1NGcGF4cmsyc2V1c2xMMWhNN2JibEFLRXg5bW9ySHM2OE5HN0lRNFItOWlOZXNqR2RyYTk4aGJ5bnphUHBVYzZPaE9ZMnFLbWo1LVZOWWhHWG5STzM0bFFILW5taVoyUFB4UE9rU2kzaE9kS0NhWFBPQktPWlM4ZWoyM0hKMmRFalZfRDVuNm4wWUxmNlhnbzJhZVI4YkdCam44c2FtRF9Ec0s3RVlseC12S2tqYmxQdw?oc=5) |
 | 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS2 : la loi Résilience revient à l’Assemblée, deux ans après l’échéance européenne - Solutions-Numeriques](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0k1WEtmMk1UM0pPZ0g3bnlyTHZBQjl5WlMtZlo2cW4zeTFmcU1WZ3FiZVFKd0FCSndRSkplSG16TVVoYk12MGFWcTBKUTJiSVc3Z2U2M3A0cjZGLUpKUTNyeFh6X2ttT2YzN0dzRmRycEdJUW81X0tJOTRNMEhwajdRaWVTRnF5UlBkbEM1dC1RUXczUUZyYUhrWGVVbDdlSkhELWl6aTNZdWRJNUtvZmhnR19ZQWFC?oc=5) |
+| 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 arrive enfin à l’Assemblée, le gouvernement veut supprimer l’article anti-portes dérobées - L'Usine Digitale](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWGZzWkYyN1Y5dkx1REtMN05QZGU0M1lyRVRSV0E4V29mWlhMVlBJdmxVSHlqRmdISTVjR0lVYVhpNnpJdm90V05nRTV5bEg3bWZfakt3NVhrZ0UxXzBnLWM2Vk1zVGY4bnc1MGZMY0JyME5hUlJaMDBqRWhKY1dRTW8wVmN1UFZYcTEzQ2dKTkZuZ3VNM0VzWFpkeVRtLVplN2ZnY3dIbC1TeGJORVRPV2xrMkVYaVdweWgzVzdyTTJOcUtJdE9sUFY2RTZ2eFY1RVZZQ1N5RzNmS1FfNGVjeWlrWV9sbkdQN1QtclNIclJZZ1JsVUdzN3NJUE4?oc=5) |
 | 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cybersécurité : le projet de loi Résilience arrive à l’Assemblée avec NIS2 au cœur des débats - Politique Matin](https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEZMUGFCYXhCeThheEpXWmZXUzhqWWdaZ1pKMFJzS0ZZeWNjbFh2TjZmMzloSmVER3hNelRrVUFfZU0xS1hsRVZIZUhvTE5EdFZ5SEp2TGx1cy0ycVc1WXl2Sm5iaHVqMVl1cHVOR05vaUNSRWFzejg5RlVWTTNSMHUyRVZ6THVMV09leHBFa0ExZlRaRllNdzRB?oc=5) |
 | 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 : la loi Résilience entre enfin dans l’hémicycle, deux ans après l’échéance… - ITforBusiness.fr](https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1JtUGdJZG92VEZDZmFyZ0ZEZ0NQU1BBNzZRUFF0SU12VUkyTFF0X3hpbE8wTUhlX3NKNlVaazNmZWJqNVBwR010cTYydVFacXZIZmJOSG0zczZ3UHByc0hTZjU2M0xfWW5ST1BEMXlIWGlXSzZ6dnhuWWNEQzgwb1RPV1RsZEk?oc=5) |
 | 2026-11-06 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cloud & Cyber Security Expo Paris : NIS2, identité, IA et souveraineté au programme des 18 et 19 novembre - IT Social](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT3pscUh5VmpJWW13N0lKYVhSeEltREs3cU0yVmtZU0pmc3NuOWhYZjY4TFB3TTdhNjByWENYWkNXSWV0anNRMTlzOGZMWlJ0QklySjktdTFMZEFlaEJobGUtQ1BTcjRFMjFpSWxOSVdSYjFNZElVRWxDVDFobXlYdWZCMW5tdXc2eDFHQWkwTnRoOWVoWTVPVTBaTVJRSHJKT3VRUXJJS3JCenozTktEMjI5V3Y3MTU4RDlKYmpsVXFYUk5IQjRFdTl1UldwMU5KdHdjYjhqbw?oc=5) |
