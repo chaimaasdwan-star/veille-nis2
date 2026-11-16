@@ -1,5 +1,5 @@
 # Veille NIS 2
-_Mise à jour : 15/11/2026 06:47 UTC — 95 élément(s) sur 60 jours_
+_Mise à jour : 16/11/2026 08:08 UTC — 96 élément(s) sur 60 jours_
 
 ## UE
 
@@ -49,6 +49,7 @@ _Mise à jour : 15/11/2026 06:47 UTC — 95 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-16 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Directive NIS 2 : les députés corrigent le tir et protègent les éditeurs de logiciels - GoodTechInfo](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVU3T2NMNTBFdVdGTTF4ZlhhalppSjM3MmNZVnEyUWZtX3N4RFhtV3lILVo5SDhmaWpZbFQxaHJha21mZUdQMWpfSnB6RXNVdG9hVUotTU0yR3Rnc05YUnF0NFFaVFNGeGV4WVNUSml5OS1jbVZUdWRzRWNpRTNnU3hJWE1laU1MQXY4NTRsNFo0ZE9meDZUVTJR?oc=5) |
 | 2026-11-13 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS2 : la loi Résilience avance à l’Assemblée, mais les entreprises devront encore patienter - Solutions-Numeriques](https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1pzTHhEa2syamR6WEhxNTgwZ1psNjF5OEJrZWtxQ2FoNC1tVVp6bXpScF9lVGRGTnB2WXZkcE44S2VJd3lFcnVZX2RGMk5GSkpHaUJ4V2NacUV0U2ZzN1hjX3VQZ08wMHNBbjhNZ1RpdFpGYk05SWxKb0FxNG5IRmY1b3JTbk9Mb0o5MU9jR3hqSnRjTkozNG80TUFFVFdIcDBuYzdYTUhWdURDZ1VhNnNZdktROEc1b0NvQ3lobkQ0ZHpW?oc=5) |
 | 2026-11-13 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 : vos fournisseurs vous placent déjà dans le périmètre, avant même le vote de la loi - InformatiqueNews](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tcTBoWTBQak9fT1pNRm9BVVpVWW1NS182Mlc0MTVURi1vYzVqOEFsaWp5c1hsZlJiOG9nX0xuZS12NUk0ZThWOG80MmhoQjcxS3JGTUJnb0h2Q2dpTzZhRURxUDM?oc=5) |
 | 2026-11-13 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Le rapport de cybersécurité 2026 de l’ENISA fixe cinq priorités - DCOD Cybersécurité](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EWEJoelZpdmVKWXJmZ0phdWNoN1RpeER1WUdrdGNwcFpMY1pVb1h6OHN0R1FoVTROaXVjYjRGVXBLZ09zZG5ERG5rUnF4aHNBMnlmMFFvNW82SDZsMXpNcGxR?oc=5) |
