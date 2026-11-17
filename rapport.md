@@ -1,5 +1,5 @@
 # Veille NIS 2
-_Mise à jour : 16/11/2026 08:08 UTC — 96 élément(s) sur 60 jours_
+_Mise à jour : 17/11/2026 06:57 UTC — 101 élément(s) sur 60 jours_
 
 ## UE
 
@@ -14,6 +14,9 @@ _Mise à jour : 16/11/2026 08:08 UTC — 96 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-17 | (à vérifier) | ANSSI - page NIS 2 | [La page « ANSSI - page NIS 2 » a été modifiée](https://cyber.gouv.fr/la-directive-nis-2) |
+| 2026-11-17 | (à vérifier) | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
+| 2026-11-17 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0268 DU 17 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/56k1lomcwi17foivl19uujwcsb9hsexkt4cd00l4.html) |
 | 2026-11-14 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0267 DU 15 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/x4dyy6eqahgl0ztcxroszy5245gvxblu64dtm73a.html) |
 | 2026-11-14 | NIS 2 | ANSSI - page NIS 2 | [La page « ANSSI - page NIS 2 » a été modifiée](https://cyber.gouv.fr/la-directive-nis-2) |
 | 2026-11-14 | NIS 2 | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
@@ -49,6 +52,8 @@ _Mise à jour : 16/11/2026 08:08 UTC — 96 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-17 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Projet de loi NIS 2 : l’Anssi aurait le pouvoir de rendre publiques des cyberattaques - Clubic](https://news.google.com/rss/articles/CBMixwFBVV95cUxOZXRCZVRlaTE0Ym5pTTRHTENSS1Yya0VSRl9pTnpva0NhbUJHa2NxUEl0d2tsOTZvM2VsRXptTktIQmwtV2hPQkRnWDk5TmNJYXBHM2JBQXpiNHg4My1zRXl2UVByTXB4WlF4akxYZDB6NFg1VlJ6V1JJanc5MDNWWEFkLWY5NG5rNWYzSGJpQjRmYTlraDg5c0h1ZTlmakNKRFktNGNxYko3d2pJVnVLeU1iMlNDZHVqeUxickY3YzY5aFZ1Q1dz?oc=5) |
+| 2026-11-16 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS2 : les dispositions adoptées par les députés concernant les collectivités - Banque des Territoires](https://news.google.com/rss/articles/CBMisAFBVV95cUxQWGZEN05HX002VU1wUm95LXhqbzl4U2NZZy1saDVRNzF5eEkwWWIzZ3NjMjhJWDZ6elBOcFNpT2taMkZtY2Mzekc2bWNXaG1BZmt2TUhIeDQ3QXY0N3p6dWRXVEdVdHBsZlUwODRMOTVWNGVLVm1sa2NVVDFpelpwOWdfQl9OTEp1WDV0bGZqOUEzUnRPdGxXT1A1dG5USGJLN3NoYWh4VTVNNUYtZG9pcg?oc=5) |
 | 2026-11-16 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Directive NIS 2 : les députés corrigent le tir et protègent les éditeurs de logiciels - GoodTechInfo](https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVU3T2NMNTBFdVdGTTF4ZlhhalppSjM3MmNZVnEyUWZtX3N4RFhtV3lILVo5SDhmaWpZbFQxaHJha21mZUdQMWpfSnB6RXNVdG9hVUotTU0yR3Rnc05YUnF0NFFaVFNGeGV4WVNUSml5OS1jbVZUdWRzRWNpRTNnU3hJWE1laU1MQXY4NTRsNFo0ZE9meDZUVTJR?oc=5) |
 | 2026-11-13 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS2 : la loi Résilience avance à l’Assemblée, mais les entreprises devront encore patienter - Solutions-Numeriques](https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1pzTHhEa2syamR6WEhxNTgwZ1psNjF5OEJrZWtxQ2FoNC1tVVp6bXpScF9lVGRGTnB2WXZkcE44S2VJd3lFcnVZX2RGMk5GSkpHaUJ4V2NacUV0U2ZzN1hjX3VQZ08wMHNBbjhNZ1RpdFpGYk05SWxKb0FxNG5IRmY1b3JTbk9Mb0o5MU9jR3hqSnRjTkozNG80TUFFVFdIcDBuYzdYTUhWdURDZ1VhNnNZdktROEc1b0NvQ3lobkQ0ZHpW?oc=5) |
 | 2026-11-13 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 : vos fournisseurs vous placent déjà dans le périmètre, avant même le vote de la loi - InformatiqueNews](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tcTBoWTBQak9fT1pNRm9BVVpVWW1NS182Mlc0MTVURi1vYzVqOEFsaWp5c1hsZlJiOG9nX0xuZS12NUk0ZThWOG80MmhoQjcxS3JGTUJnb0h2Q2dpTzZhRURxUDM?oc=5) |
@@ -126,7 +131,10 @@ _Mise à jour : 16/11/2026 08:08 UTC — 96 élément(s) sur 60 jours_
 | France | [ANSSI - MesServicesCyber NIS 2](https://messervices.cyber.gouv.fr/nis2/) | ✅ |
 | France | [Assemblée nationale - dossier loi Résilience (NIS 2)](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731) | ✅ |
 | Presse | [Presse - NIS 2 (Google Actualités)](https://news.google.com/rss/search?q=NIS2&hl=fr&gl=FR&ceid=FR:fr) | ✅ |
-| Presse | [Presse - NIS 2 agroalimentaire (Google Actualités)](https://news.google.com/rss/search?q=NIS2+agroalimentaire&hl=fr&gl=FR&ceid=FR:fr) | ✅ |
+| Presse | [Presse - NIS 2 agroalimentaire (Google Actualités)](https://news.google.com/rss/search?q=NIS2+agroalimentaire&hl=fr&gl=FR&ceid=FR:fr) | ❌ |
 | France | [Newsletter ANSSI (MesServicesCyber)](https://kill-the-newsletter.com/feeds/xsvkrhjdxrg6xayccm5zncq5ha0naayexxddpzbl.xml) | ✅ |
 | France | [Journal officiel - sommaire quotidien](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth.xml) | ✅ |
 
+## Sources inaccessibles lors de la dernière collecte
+
+- Presse - NIS 2 agroalimentaire (Google Actualités) : 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=NIS2+agroalimentaire&hl=fr&gl=FR&ceid=FR:fr
