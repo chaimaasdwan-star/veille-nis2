@@ -1112,95 +1112,219 @@
    ],
    "date": "2026-11-17T23:44:28+00:00",
    "type": "article"
+  },
+  "https://cyber.gouv.fr/actualites/#2026-11-19": {
+   "titre": "La page « ANSSI - actualités » a été modifiée",
+   "lien": "https://cyber.gouv.fr/actualites/",
+   "source": "ANSSI - actualités",
+   "pays": "France",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-19T06:57:16.755341+00:00",
+   "type": "page modifiée"
+  },
+  "https://cyber.gouv.fr/la-directive-nis-2#2026-11-19": {
+   "titre": "La page « ANSSI - page NIS 2 » a été modifiée",
+   "lien": "https://cyber.gouv.fr/la-directive-nis-2",
+   "source": "ANSSI - page NIS 2",
+   "pays": "France",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-19T06:57:17.637665+00:00",
+   "type": "page modifiée"
+  },
+  "https://monespacenis2.cyber.gouv.fr/#2026-11-19": {
+   "titre": "La page « ANSSI - MonEspaceNIS2 » a été modifiée",
+   "lien": "https://monespacenis2.cyber.gouv.fr/",
+   "source": "ANSSI - MonEspaceNIS2",
+   "pays": "France",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-19T06:57:19.103359+00:00",
+   "type": "page modifiée"
+  },
+  "https://messervices.cyber.gouv.fr/nis2/#2026-11-19": {
+   "titre": "La page « ANSSI - MesServicesCyber NIS 2 » a été modifiée",
+   "lien": "https://messervices.cyber.gouv.fr/nis2/",
+   "source": "ANSSI - MesServicesCyber NIS 2",
+   "pays": "France",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-19T06:57:19.819560+00:00",
+   "type": "page modifiée"
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOXVmSXBob3czcGRYZENxM21jMDJhQUMtZnEzRmZXUTFfeGFPb2JJa1luV0hvVERwNWZrcUJoQmZUMWtlUThaVnFuOU5rOERncmR4dU90OGpIQ241djI2d0VoNERWUURpX3NVT0l3cEdMbnJaRjk4c0pTcDd3a3otVjRsY2dNVjhPR25CSU1UM25PY1JtODI0Z2NqR3c3d3c?oc=5": {
+   "titre": "Loi Résilience : l’Assemblée adopte la transposition de NIS2 par 464 voix contre 64 - Solutions-Numeriques",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-18T15:55:57+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE14Zk0yb3RXTTcxVnVtck1nckM2bms1Y3E3cWF4ZVJacFNhTnVYZGVJYnpKYUpmTTFWWktnMFJFcE1pTXJrcUlHUnRyQk5iMzVBeF9jUVB5eHdHUnVQTGYtamRsUE1OSjg5Wjh6c29sUVJZaDdYZExKSG44TkNsQQ?oc=5": {
+   "titre": "NIS 2 : l’Assemblée adopte le projet de loi Résilience - ITforBusiness.fr",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-18T16:01:19+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHQtX0h2b0hJUmNsWEJYQS0yWHJGU1luZVVsQzFCaThRU2Q4dUVENlFMV2l6N2dlNVdZaHBYbEVPaURPanRRcTNROE4yZko5LXdaaVczbHJ2aGhyQWVlNFhrODI0OWVvUUNaM2t4bWhfdS1ydjEzWTZlcEV3Q2oybnlORlJhcGNHTGhRVkdjRHFWUUVHa2g2eTBveW5ZaTZh?oc=5": {
+   "titre": "L’Assemblée nationale adopte la loi Résilience en première lecture - ChannelNews",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-18T17:10:39+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXprRzhnMTcyR0djbHVDYmFlOFNkeTZ4SHhKUTE3MTVOdWgtQzV2ZGNxQjBCUlZzTDNhdUgzTUdPX1VTdlJUWVd5akZUOFJ3RTdyZ1NHVWUwY3BPcjBsNjNsU2FjeHozRW93QVltV0ZRSW02anZfQWNkZ2JHTGhQV3JEVUF5aEU2WTJsaG50Uk1TTnJqSm5feUtLUkI2QQ?oc=5": {
+   "titre": "Pourquoi la cybersécurité s’impose désormais à la table du Codir - Silicon.fr",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-17T08:30:51+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR20zZnFSSFBUMGhjOWdaQ1BLRWo5U01FUFJGcXlxOWhhWjBBajBfaXIwRncxZUlzaHBhRV9ORXgzekhwN2hJY19JNnM0MWRneWhkaEFOdVkyRDZibTRRd3dRVUp2Qnl4d0pyMnhCbHpKSkZzTlZUSm9DdVVOa0Q2YWFhQlZzTEU4Xy1uaEtpQzl1WUF2c3ZCd0VIWlRhdkxrR2xkT0RR?oc=5": {
+   "titre": "Cybersécurité : l’Assemblée adopte le projet de loi Résilience par 464 voix contre 64 - Politique Matin",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-18T11:13:09+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRUkxYTFOa0VHdGFpM3I0ZWtGaTVGaVcwSXZESXRLNzROMjNFbkxuM3RuYkVNeU1Nb3RNNDkyTzhReUZNUXh3VFJBT1BjbkczNWFJWnFIcE55eEctSHlMZWZ4OFZiT1plUTAxMFFDSzVXcVpmTWM2SUFFQjlXSld1X1dMdFpYUTlfUW5Od010Vl8wZlBBeGJidVJDZEd0LWM?oc=5": {
+   "titre": "NIS2 : les incidents graves devront être signalés en 24 puis 72 heures - Juriguide",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-19T02:31:00+00:00",
+   "type": "article"
+  },
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUW93QjlzRHZXWTRYSW44c0s5emI3clpEb1kwWC1aNTFtNVE3UUVtNDJFanRFbzNhZlE2OGg0R1dOQ2ZvdDZzR0VjVl9zZE10LXNKRjF3dDdGU0ZDX0JRSXNfdkNPUFgyNk9nZjhyRnc0c3M4bjZab3g2N1RlMEx3SkRzZ09VWVE5THp4WDZubmNacXJzZXd4QUhfZEpMcXh0SWNhMFhJQTVuN1k?oc=5": {
+   "titre": "Cybersécurité : les éditeurs de logiciels écartés d’un classement automatique - Juriguide",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-19T01:13:00+00:00",
+   "type": "article"
+  },
+  "https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/ofa5q3xk55z0ukysz6uyknke3ddh3w8mwojt85q8.html": {
+   "titre": "[LEGIFRANCE] JORF No 0270 DU 19 NOVEMBRE 2026",
+   "source": "Journal officiel - sommaire quotidien",
+   "pays": "France",
+   "themes": [
+    "Agroalimentaire"
+   ],
+   "date": "2026-11-19T01:27:26+00:00",
+   "type": "article"
   }
  },
  "pages": {
   "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive": "c356ceeaae9eec30ec7e66ea3913899fdbb644de88aa1034411a9a45cf98971d",
   "https://www.enisa.europa.eu/news": "5f80cc5a3790a501788d6a8a0e109b317dddf43d34477860931a7540928a19a0",
-  "https://cyber.gouv.fr/la-directive-nis-2": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "https://monespacenis2.cyber.gouv.fr/": "d984aabc418fbe2dfef21b6edafd89b1f115e2751985de473618a984a78464e4",
+  "https://cyber.gouv.fr/la-directive-nis-2": "292a49f0df85c99f1136c62fe372f16adf504fadf064d2409193fdf6e7514146",
+  "https://monespacenis2.cyber.gouv.fr/": "6477b73bed85eebf35412469c314c4d5c2bf1149336d4540aa9d2f56617c126c",
   "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731": "724a6262c71fe3b79e3abfae6bbd13dd1108963766a40c9cdf5e623731dbc2ef",
-  "https://cyber.gouv.fr/actualites/": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-  "https://messervices.cyber.gouv.fr/nis2/": "d984aabc418fbe2dfef21b6edafd89b1f115e2751985de473618a984a78464e4"
+  "https://cyber.gouv.fr/actualites/": "ba7bc0ecb6ad4f78b7e8d6f3f1fe34203d1fffdb451cef538fa46245348f64d9",
+  "https://messervices.cyber.gouv.fr/nis2/": "6477b73bed85eebf35412469c314c4d5c2bf1149336d4540aa9d2f56617c126c"
  },
  "statut": {
   "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive": {
    "depuis": "2026-11-02T13:32:36.518909+00:00",
    "dernier_changement": "2026-11-13T06:54:53.334270+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:38.549359+00:00"
+   "derniere_verif": "2026-11-19T06:57:14.203660+00:00"
   },
   "https://www.enisa.europa.eu/news": {
    "depuis": "2026-11-02T13:32:36.850106+00:00",
    "dernier_changement": "2026-11-11T06:53:47.898970+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:38.599993+00:00"
+   "derniere_verif": "2026-11-19T06:57:14.488908+00:00"
   },
   "https://cert.cyber.gouv.fr/feed/": {
    "depuis": "2026-11-02T13:32:37.138087+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:38.632561+00:00"
+   "derniere_verif": "2026-11-19T06:57:14.606869+00:00"
   },
   "https://www.service-public.gouv.fr/abonnements/rss/actu-actu-pro.rss": {
    "depuis": "2026-11-02T13:32:38.519383+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:39.541419+00:00"
+   "derniere_verif": "2026-11-19T06:57:15.911582+00:00"
   },
   "https://cyber.gouv.fr/actualites/": {
    "depuis": "2026-11-02T13:32:39.273270+00:00",
-   "dernier_changement": "2026-11-17T06:57:42.795748+00:00",
+   "dernier_changement": "2026-11-19T06:57:16.755321+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:39.811881+00:00"
+   "derniere_verif": "2026-11-19T06:57:16.755321+00:00"
   },
   "https://cyber.gouv.fr/la-directive-nis-2": {
    "depuis": "2026-11-02T13:32:40.165751+00:00",
-   "dernier_changement": "2026-11-17T06:57:42.888353+00:00",
+   "dernier_changement": "2026-11-19T06:57:17.637646+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:39.885729+00:00"
+   "derniere_verif": "2026-11-19T06:57:17.637646+00:00"
   },
   "https://monespacenis2.cyber.gouv.fr/": {
    "depuis": "2026-11-02T13:32:41.777185+00:00",
-   "dernier_changement": "2026-11-18T06:57:40.991793+00:00",
+   "dernier_changement": "2026-11-19T06:57:19.103343+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:40.991793+00:00"
+   "derniere_verif": "2026-11-19T06:57:19.103343+00:00"
   },
   "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731": {
    "depuis": "2026-11-02T13:32:42.343778+00:00",
    "dernier_changement": "2026-11-18T06:57:42.018098+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:42.018098+00:00"
+   "derniere_verif": "2026-11-19T06:57:20.486622+00:00"
   },
   "https://news.google.com/rss/search?q=NIS2&hl=fr&gl=FR&ceid=FR:fr": {
    "depuis": "2026-11-02T13:32:42.896607+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:42.349396+00:00"
+   "derniere_verif": "2026-11-19T06:57:20.878003+00:00"
   },
   "https://news.google.com/rss/search?q=NIS2+agroalimentaire&hl=fr&gl=FR&ceid=FR:fr": {
    "depuis": "2026-11-02T13:32:43.181826+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:42.587911+00:00"
+   "derniere_verif": "2026-11-19T06:57:21.147745+00:00"
   },
   "https://kill-the-newsletter.com/feeds/xsvkrhjdxrg6xayccm5zncq5ha0naayexxddpzbl.xml": {
    "depuis": "2026-11-02T13:32:43.605091+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:43.071734+00:00"
+   "derniere_verif": "2026-11-19T06:57:22.207243+00:00"
   },
   "https://messervices.cyber.gouv.fr/nis2/": {
    "depuis": "2026-11-02T17:28:55.527890+00:00",
-   "dernier_changement": "2026-11-18T06:57:41.724790+00:00",
+   "dernier_changement": "2026-11-19T06:57:19.819541+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:41.724790+00:00"
+   "derniere_verif": "2026-11-19T06:57:19.819541+00:00"
   },
   "https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth.xml": {
    "depuis": "2026-11-02T17:39:12.129449+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-18T06:57:43.725694+00:00"
+   "derniere_verif": "2026-11-19T06:57:23.047323+00:00"
   }
  }
 }
