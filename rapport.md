@@ -1,10 +1,11 @@
 # Veille NIS 2
-_Mise à jour : 19/11/2026 06:57 UTC — 120 élément(s) sur 60 jours_
+_Mise à jour : 20/11/2026 06:56 UTC — 130 élément(s) sur 60 jours_
 
 ## UE
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-20 | NIS 2 | Commission européenne - page NIS 2 | [La page « Commission européenne - page NIS 2 » a été modifiée](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) |
 | 2026-11-13 | NIS 2 | Commission européenne - page NIS 2 | [La page « Commission européenne - page NIS 2 » a été modifiée](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) |
 | 2026-11-11 | (à vérifier) | ENISA - actualités | [La page « ENISA - actualités » a été modifiée](https://www.enisa.europa.eu/news) |
 | 2026-11-06 | (à vérifier) | ENISA - actualités | [La page « ENISA - actualités » a été modifiée](https://www.enisa.europa.eu/news) |
@@ -14,6 +15,11 @@ _Mise à jour : 19/11/2026 06:57 UTC — 120 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-20 | NIS 2, Agroalimentaire | ANSSI - MesServicesCyber NIS 2 | [La page « ANSSI - MesServicesCyber NIS 2 » a été modifiée](https://messervices.cyber.gouv.fr/nis2/) |
+| 2026-11-20 | NIS 2, Agroalimentaire | ANSSI - MonEspaceNIS2 | [La page « ANSSI - MonEspaceNIS2 » a été modifiée](https://monespacenis2.cyber.gouv.fr/) |
+| 2026-11-20 | NIS 2 | ANSSI - page NIS 2 | [La page « ANSSI - page NIS 2 » a été modifiée](https://cyber.gouv.fr/la-directive-nis-2) |
+| 2026-11-20 | NIS 2 | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
+| 2026-11-20 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0271 DU 20 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/bs43o9bg2s8ti5nogwwam91mcfsutwsti4y2me5n.html) |
 | 2026-11-19 | NIS 2 | ANSSI - MesServicesCyber NIS 2 | [La page « ANSSI - MesServicesCyber NIS 2 » a été modifiée](https://messervices.cyber.gouv.fr/nis2/) |
 | 2026-11-19 | NIS 2 | ANSSI - MonEspaceNIS2 | [La page « ANSSI - MonEspaceNIS2 » a été modifiée](https://monespacenis2.cyber.gouv.fr/) |
 | 2026-11-19 | NIS 2 | ANSSI - page NIS 2 | [La page « ANSSI - page NIS 2 » a été modifiée](https://cyber.gouv.fr/la-directive-nis-2) |
@@ -61,6 +67,9 @@ _Mise à jour : 19/11/2026 06:57 UTC — 120 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-19 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Lecornu présente un plan de renforcement de la cybersécurité - Le Journal des Français](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDNmRlo0dFBEVk9nbzRBcXpkcTQ0V3VYQVBicVZ6LWp5NFh4V3VFZU44TkxKOWhtVFFRRG53dEh1SkwwMEc3MXVxTVJhWjVOZWhsbjNCTGpLR2txNFNPTDIxS3JEV21WMk5ReWdhby1oNVo5SUpGR29wV3JuVEdUbi05bFVYYU5SS2xOY1NDN3A?oc=5) |
+| 2026-11-19 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Alexandre Diehl, avocat, Jean-Baptiste Artignan, BlueSecure : NIS2 : après deux ans d’attente, ne faisons pas de la cybersécurité une conformité de plus - ZDNET](https://news.google.com/rss/articles/CBMikAJBVV95cUxQeFNKcTVPUHlONnJXXzhjc1JqYXQtVjZaMElUQURxYlFJQklXZnBiay1FX2gwbXdaWVZQNk1QRHl1RVRITlNBYWYwZmNKdU15OGczYk5mTFZhVVhnbXhmdWw1VXRsa09Eczh3YjZ0ajlsblAwY1paamFWZkVLVXptWXlJd1pIQ0VjeGt2RmF2VGp5Ni1ZOWwyZWN4QTBiM2xfVUNtY2NPdy04YURqMFU3NEsxMXZjOGlCRkxsSi1YdUFLNGxYT2t2NElsREhMdlI4Tjl3S1VRSFhwRmtDTndxMTJkUEZIZUZERjFXY3hic1Z6TjE1OHJmRzFWTGtNU2ZHd3dOVno0WUhvNkh6b2oxQQ?oc=5) |
+| 2026-11-19 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Loi Résilience NIS2 : ce qui attend les entreprises sur le numérique - Leptidigital](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPckRLWHhibnpwTi1zOWRYcDhjUVVGRGJzUWgzbHptVVZ4MjBHcWVVSFh0M1VtWVNOQWJVSFZIV2ROaHd3OHU0U29Kdk5KeUdzSGJDZ1hWRjkzc3Y1WlczR2s3c1hjckV2NTRrQzJhQW9OWElJM3czRjA4OFF3eEpDXy1OU2dxd1FLdzM2bnIxSVJseHJOX1BXSTY3RzVfS0FTbVpNY0JYaU51aGRWMWxsUlBrek1pWmNNWFpONk0tc3YwMGpwX0FrYTBJRUZIVDBLNnItZWF1enA?oc=5) |
 | 2026-11-19 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS2 : les incidents graves devront être signalés en 24 puis 72 heures - Juriguide](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRUkxYTFOa0VHdGFpM3I0ZWtGaTVGaVcwSXZESXRLNzROMjNFbkxuM3RuYkVNeU1Nb3RNNDkyTzhReUZNUXh3VFJBT1BjbkczNWFJWnFIcE55eEctSHlMZWZ4OFZiT1plUTAxMFFDSzVXcVpmTWM2SUFFQjlXSld1X1dMdFpYUTlfUW5Od010Vl8wZlBBeGJidVJDZEd0LWM?oc=5) |
 | 2026-11-19 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cybersécurité : les éditeurs de logiciels écartés d’un classement automatique - Juriguide](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUW93QjlzRHZXWTRYSW44c0s5emI3clpEb1kwWC1aNTFtNVE3UUVtNDJFanRFbzNhZlE2OGg0R1dOQ2ZvdDZzR0VjVl9zZE10LXNKRjF3dDdGU0ZDX0JRSXNfdkNPUFgyNk9nZjhyRnc0c3M4bjZab3g2N1RlMEx3SkRzZ09VWVE5THp4WDZubmNacXJzZXd4QUhfZEpMcXh0SWNhMFhJQTVuN1k?oc=5) |
 | 2026-11-18 | NIS 2 | Presse - NIS 2 (Google Actualités) | [L’Assemblée nationale adopte la loi Résilience en première lecture - ChannelNews](https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHQtX0h2b0hJUmNsWEJYQS0yWHJGU1luZVVsQzFCaThRU2Q4dUVENlFMV2l6N2dlNVdZaHBYbEVPaURPanRRcTNROE4yZko5LXdaaVczbHJ2aGhyQWVlNFhrODI0OWVvUUNaM2t4bWhfdS1ydjEzWTZlcEV3Q2oybnlORlJhcGNHTGhRVkdjRHFWUUVHa2g2eTBveW5ZaTZh?oc=5) |
@@ -98,6 +107,7 @@ _Mise à jour : 19/11/2026 06:57 UTC — 120 élément(s) sur 60 jours_
 | 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS2 : la loi Résilience revient à l’Assemblée, deux ans après l’échéance européenne - Solutions-Numeriques](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0k1WEtmMk1UM0pPZ0g3bnlyTHZBQjl5WlMtZlo2cW4zeTFmcU1WZ3FiZVFKd0FCSndRSkplSG16TVVoYk12MGFWcTBKUTJiSVc3Z2U2M3A0cjZGLUpKUTNyeFh6X2ttT2YzN0dzRmRycEdJUW81X0tJOTRNMEhwajdRaWVTRnF5UlBkbEM1dC1RUXczUUZyYUhrWGVVbDdlSkhELWl6aTNZdWRJNUtvZmhnR19ZQWFC?oc=5) |
 | 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 arrive enfin à l’Assemblée, le gouvernement veut supprimer l’article anti-portes dérobées - L'Usine Digitale](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWGZzWkYyN1Y5dkx1REtMN05QZGU0M1lyRVRSV0E4V29mWlhMVlBJdmxVSHlqRmdISTVjR0lVYVhpNnpJdm90V05nRTV5bEg3bWZfakt3NVhrZ0UxXzBnLWM2Vk1zVGY4bnc1MGZMY0JyME5hUlJaMDBqRWhKY1dRTW8wVmN1UFZYcTEzQ2dKTkZuZ3VNM0VzWFpkeVRtLVplN2ZnY3dIbC1TeGJORVRPV2xrMkVYaVdweWgzVzdyTTJOcUtJdE9sUFY2RTZ2eFY1RVZZQ1N5RzNmS1FfNGVjeWlrWV9sbkdQN1QtclNIclJZZ1JsVUdzN3NJUE4?oc=5) |
 | 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cybersécurité : le projet de loi Résilience arrive à l’Assemblée avec NIS2 au cœur des débats - Politique Matin](https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEZMUGFCYXhCeThheEpXWmZXUzhqWWdaZ1pKMFJzS0ZZeWNjbFh2TjZmMzloSmVER3hNelRrVUFfZU0xS1hsRVZIZUhvTE5EdFZ5SEp2TGx1cy0ycVc1WXl2Sm5iaHVqMVl1cHVOR05vaUNSRWFzejg5RlVWTTNSMHUyRVZ6THVMV09leHBFa0ExZlRaRllNdzRB?oc=5) |
+| 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cybersécurité : le projet de loi arrive enfin à l’Assemblée - business-times.fr](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hbkRjbS1JNHpLNG15dnJzcFZ4ZkdsbURGeGtIQk1fRWQyWnhxb0JZQWJIdHBmX2VvRmZlLTRiek5FZUlfRWNFUERVUzA1TWp1a2N1b25Vb0pUY1EzcDJwWGY1YTFvZE0?oc=5) |
 | 2026-11-09 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 : la loi Résilience entre enfin dans l’hémicycle, deux ans après l’échéance… - ITforBusiness.fr](https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1JtUGdJZG92VEZDZmFyZ0ZEZ0NQU1BBNzZRUFF0SU12VUkyTFF0X3hpbE8wTUhlX3NKNlVaazNmZWJqNVBwR010cTYydVFacXZIZmJOSG0zczZ3UHByc0hTZjU2M0xfWW5ST1BEMXlIWGlXSzZ6dnhuWWNEQzgwb1RPV1RsZEk?oc=5) |
 | 2026-11-06 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cloud & Cyber Security Expo Paris : NIS2, identité, IA et souveraineté au programme des 18 et 19 novembre - IT Social](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT3pscUh5VmpJWW13N0lKYVhSeEltREs3cU0yVmtZU0pmc3NuOWhYZjY4TFB3TTdhNjByWENYWkNXSWV0anNRMTlzOGZMWlJ0QklySjktdTFMZEFlaEJobGUtQ1BTcjRFMjFpSWxOSVdSYjFNZElVRWxDVDFobXlYdWZCMW5tdXc2eDFHQWkwTnRoOWVoWTVPVTBaTVJRSHJKT3VRUXJJS3JCenozTktEMjI5V3Y3MTU4RDlKYmpsVXFYUk5IQjRFdTl1UldwMU5KdHdjYjhqbw?oc=5) |
 | 2026-11-04 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Conscio Technologies présente un nouveau livre blanc sur NIS2 - Solutions-Numeriques](https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEZlWWE5VkhiM1B4OUtrT2QydGZ0ZnpQWWdTaF9hd0RXMElVVG1HX2pmNGN5Sk5OMXR6elNwMk93MW9HbEdscUl6RHpEOU5lc1A3R1l1SElhbWtTa09mNkJYQUZEMjVwMm5Qbll0MzZaYkVTUnBldXRMaUIwRnEzNi1MR080MmNEZUhNblh6WEEteW1rdzF0UDQ5UlVSU0JiczJyTEJ3ZWxtdUlyaVBweg?oc=5) |
