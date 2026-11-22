@@ -210,16 +210,6 @@
    "date": "2026-10-06T07:00:00+00:00",
    "type": "article"
   },
-  "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Gc0NfakJQU0NJN1ZYVlBiZXl4Z0NnbXdINEtMUUt6cVNkcWNmMFg3SkFfTmh3RDFnd3FtVzBGRXZhSF9aRFV6c0RYZ0ltbFRrbUxVOWxtY1VNYXVuN1ZJR1VtQURfTDdqNEg0NU1udw?oc=5": {
-   "titre": "NIS 2 enfin à l’agenda parlementaire - Projet Arcadie",
-   "source": "Presse - NIS 2 (Google Actualités)",
-   "pays": "Presse",
-   "themes": [
-    "NIS 2"
-   ],
-   "date": "2026-09-22T07:00:00+00:00",
-   "type": "article"
-  },
   "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUU4xelQ0aGhRSXZua2RFc3hNRE40T29TbUZ2TUI1TEdJU0gwQ2NqM1hFM1ZHTmZDVE1PTHE4TUZqd1pZM1FtNXViSGhVRXFYOFdxR1Z6a3REZWVHMy1oeVhTdUc3X1ZYaGFlakhKUEx5d0tlWEFLREkzUk1tSUJ2eFNNWERUVUVpWUQ0SXBUbmV2TWRpZTF0NVpIMTF5S3NfeHpyRS1BWVNhM3RYYk9ZSW5qLU1XdmZnRGxKRnBKdklYZHdpRExfM2JZQzhMUHlUWmJz?oc=5": {
    "titre": "Comment gérer sa conformité RGPD, DORA et NIS2 ? Formalize répond aux entreprises - Le Point",
    "source": "Presse - NIS 2 (Google Actualités)",
@@ -238,16 +228,6 @@
     "NIS 2"
    ],
    "date": "2026-10-08T07:00:00+00:00",
-   "type": "article"
-  },
-  "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWZaeDlaZk9SRmRGUVlIbXlBQlNtN2NBS3AwQldZNGZ3WktGZnFQTUdIeFV4Vm9faGlxNWtqN3hjZS1QcDRObW9FSDJYT2NZYjV6VzVramczNUZIM1NUdUYwTVpzTU5tTmJTNnp2N01hUHZEVFVycVlIYzhadTh5VXhlcVZvUnB0cEZFNUZyQUFmbnBzcmtneWkyaWE0S01EWnVB?oc=5": {
-   "titre": "NIS2 enfin à l’Assemblée nationale près de deux ans après la date limite - Cyberattaque.org",
-   "source": "Presse - NIS 2 (Google Actualités)",
-   "pays": "Presse",
-   "themes": [
-    "NIS 2"
-   ],
-   "date": "2026-09-22T07:00:00+00:00",
    "type": "article"
   },
   "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JckNqbTVISnN6a1VLU0hzVDNrLVg0QWZvOXRBV0V5d2owTEpGeUc4R1g2Tk84Y1NBUWhGdkV2a0FaTnpZZ1pkcWEzaER0RDFZemg4QW1SSDRRRlhVSmhnQWdwbmxnOXBadE0xMjRJN2hycUZwMHdVdDg2dVZidw?oc=5": {
@@ -1423,6 +1403,16 @@
    ],
    "date": "2026-11-21T00:27:12+00:00",
    "type": "article"
+  },
+  "https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/pjui2v5bt17pq53qwjzc41umdgwnxzg0flumzcqn.html": {
+   "titre": "[LEGIFRANCE] JORF No 0273 DU 22 NOVEMBRE 2026",
+   "source": "Journal officiel - sommaire quotidien",
+   "pays": "France",
+   "themes": [
+    "Agroalimentaire"
+   ],
+   "date": "2026-11-21T23:43:54+00:00",
+   "type": "article"
   }
  },
  "pages": {
@@ -1439,79 +1429,79 @@
    "depuis": "2026-11-02T13:32:36.518909+00:00",
    "dernier_changement": "2026-11-20T06:56:43.489002+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:39.617404+00:00"
+   "derniere_verif": "2026-11-22T06:52:48.499625+00:00"
   },
   "https://www.enisa.europa.eu/news": {
    "depuis": "2026-11-02T13:32:36.850106+00:00",
    "dernier_changement": "2026-11-11T06:53:47.898970+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:39.910202+00:00"
+   "derniere_verif": "2026-11-22T06:52:49.039122+00:00"
   },
   "https://cert.cyber.gouv.fr/feed/": {
    "depuis": "2026-11-02T13:32:37.138087+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:40.002219+00:00"
+   "derniere_verif": "2026-11-22T06:52:49.166949+00:00"
   },
   "https://www.service-public.gouv.fr/abonnements/rss/actu-actu-pro.rss": {
    "depuis": "2026-11-02T13:32:38.519383+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:41.341912+00:00"
+   "derniere_verif": "2026-11-22T06:52:50.909617+00:00"
   },
   "https://cyber.gouv.fr/actualites/": {
    "depuis": "2026-11-02T13:32:39.273270+00:00",
    "dernier_changement": "2026-11-20T06:56:46.462853+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:42.101003+00:00"
+   "derniere_verif": "2026-11-22T06:52:51.678290+00:00"
   },
   "https://cyber.gouv.fr/la-directive-nis-2": {
    "depuis": "2026-11-02T13:32:40.165751+00:00",
    "dernier_changement": "2026-11-20T06:56:47.188777+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:43.099062+00:00"
+   "derniere_verif": "2026-11-22T06:52:52.495866+00:00"
   },
   "https://monespacenis2.cyber.gouv.fr/": {
    "depuis": "2026-11-02T13:32:41.777185+00:00",
    "dernier_changement": "2026-11-20T06:56:48.846961+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:44.783173+00:00"
+   "derniere_verif": "2026-11-22T06:52:54.833244+00:00"
   },
   "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731": {
    "depuis": "2026-11-02T13:32:42.343778+00:00",
    "dernier_changement": "2026-11-18T06:57:42.018098+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:46.501497+00:00"
+   "derniere_verif": "2026-11-22T06:52:57.158484+00:00"
   },
   "https://news.google.com/rss/search?q=NIS2&hl=fr&gl=FR&ceid=FR:fr": {
    "depuis": "2026-11-02T13:32:42.896607+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:47.104857+00:00"
+   "derniere_verif": "2026-11-22T06:52:57.556760+00:00"
   },
   "https://news.google.com/rss/search?q=NIS2+agroalimentaire&hl=fr&gl=FR&ceid=FR:fr": {
    "depuis": "2026-11-02T13:32:43.181826+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:47.380905+00:00"
+   "derniere_verif": "2026-11-22T06:52:57.841687+00:00"
   },
   "https://kill-the-newsletter.com/feeds/xsvkrhjdxrg6xayccm5zncq5ha0naayexxddpzbl.xml": {
    "depuis": "2026-11-02T13:32:43.605091+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:47.975793+00:00"
+   "derniere_verif": "2026-11-22T06:52:59.105249+00:00"
   },
   "https://messervices.cyber.gouv.fr/nis2/": {
    "depuis": "2026-11-02T17:28:55.527890+00:00",
    "dernier_changement": "2026-11-20T06:56:49.829178+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:45.843197+00:00"
+   "derniere_verif": "2026-11-22T06:52:56.175825+00:00"
   },
   "https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth.xml": {
    "depuis": "2026-11-02T17:39:12.129449+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-21T06:53:48.823713+00:00"
+   "derniere_verif": "2026-11-22T06:53:00.075903+00:00"
   }
  }
 }

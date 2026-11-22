@@ -1,5 +1,5 @@
 # Veille NIS 2
-_Mise à jour : 21/11/2026 06:53 UTC — 138 élément(s) sur 60 jours_
+_Mise à jour : 22/11/2026 06:53 UTC — 137 élément(s) sur 60 jours_
 
 ## UE
 
@@ -15,6 +15,7 @@ _Mise à jour : 21/11/2026 06:53 UTC — 138 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-21 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0273 DU 22 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/pjui2v5bt17pq53qwjzc41umdgwnxzg0flumzcqn.html) |
 | 2026-11-21 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0272 DU 21 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/05nut02c063zuref7ps9newm64o7odtnq37pdlfh.html) |
 | 2026-11-20 | NIS 2, Agroalimentaire | ANSSI - MesServicesCyber NIS 2 | [La page « ANSSI - MesServicesCyber NIS 2 » a été modifiée](https://messervices.cyber.gouv.fr/nis2/) |
 | 2026-11-20 | NIS 2, Agroalimentaire | ANSSI - MonEspaceNIS2 | [La page « ANSSI - MonEspaceNIS2 » a été modifiée](https://monespacenis2.cyber.gouv.fr/) |
@@ -151,8 +152,6 @@ _Mise à jour : 21/11/2026 06:53 UTC — 138 élément(s) sur 60 jours_
 | 2026-10-01 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Transposition NIS 2 France : entreprises concernées, date et ce que le droit impose déjà - Kohen Avocats](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFB2TlpYMVlNbmpiQjhqWHNTRnl3M3RXU09mSlREdmRKUzJKTFM5MVFCYVNJdTJzcmVzSWRkWEpVSVVTSzZhSERfZnBOSmRnWlFwWHRRR1hBbW56UkhWbUZibXM4N0JmSEl6YVNPZl9fWHpSNU1GdnE0dnZza3pGTnRUeE9jczBpb1NpRnBsdkoyU3ItQm96aW1EMzd0enVhOXVYdkg0RnFBZjV4?oc=5) |
 | 2026-09-25 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cybersécurité : « Nous aimerions que cela ruisselle » vers les plus petites communes - Philippe Latombe, député - La Gazette des Communes](https://news.google.com/rss/articles/CBMioAJBVV95cUxQTVMySDBXcUpTLU1ZRlhUV2psRG5GZ2Q3Q3RZRGJYOHprMmxobTV5TWtUUm5BSFNidlBfVjJ6VmtvMWZVMUpnbkRvLWJzVWpuN3ZSQU55Um9mUWU4d2lXTDY1YWdGVmt0T09pbnc0c3RtdWpJMHF4Z1JEYWozbTJKNGgtU2k2RVVwMnJ6V0R3OWtwTjJyTG5scHFuVGJBYlBZZmpzOFk1RnZqNnpaLWZWclpUQy1FalVYNWNXR0t3c0ZYSExRbVRNaTNoOWMtU2p5Y3UyNzRlR2JJWE5VVWpIZ3NOeXpsYWpsLUtmZWZrUXFuREtjNjdBOUpNSGVXX2xxMTZ6OUpkb216WVlhTFJlUGRSUHA0eENZaS1UamlGQW8?oc=5) |
 | 2026-09-24 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 : Failles exposées, périmètre incertain, loi en retard… les entreprises françaises face à un chantier qui n’attend pas - L'Usine Digitale](https://news.google.com/rss/articles/CBMinwJBVV95cUxPVm9ZSy1qOVQ5TmxxWlhKT1ZIQW8zV2pjSTd0ZVJzNjRtR3JWakUybE52em9JMkg2Z1lFSS1QWWg4dE1pcWpOOWRrWUxBRWh1TUFIb1RPdHFfRWx5S01NQURBNlc4N204dnlERXhOX2I3eUJXVk5HSTViRkw0V3ExTVlRTTJZdVc2NVJ6enhTZTNjQmgyVHdHdTlSWFVMMk5lUUdmRFc3a3FUTWZMeUtDRDBab3BIcDFYUzVDYkQ2WE5WTE9kcFg5QThUOUFMSHRvcllfcGJNVjdxNXpvT0JrNmlMZ3Nmb1FpY0k1SV9rNmxQU05zRGg1ZVBBamhtSGFhOWFkSHVrdG01Nm1EY2pYQm50VjFQLTNINUFKbnpGUQ?oc=5) |
-| 2026-09-22 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS 2 enfin à l’agenda parlementaire - Projet Arcadie](https://news.google.com/rss/articles/CBMib0FVX3lxTE9Gc0NfakJQU0NJN1ZYVlBiZXl4Z0NnbXdINEtMUUt6cVNkcWNmMFg3SkFfTmh3RDFnd3FtVzBGRXZhSF9aRFV6c0RYZ0ltbFRrbUxVOWxtY1VNYXVuN1ZJR1VtQURfTDdqNEg0NU1udw?oc=5) |
-| 2026-09-22 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS2 enfin à l’Assemblée nationale près de deux ans après la date limite - Cyberattaque.org](https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWZaeDlaZk9SRmRGUVlIbXlBQlNtN2NBS3AwQldZNGZ3WktGZnFQTUdIeFV4Vm9faGlxNWtqN3hjZS1QcDRObW9FSDJYT2NZYjV6VzVramczNUZIM1NUdUYwTVpzTU5tTmJTNnp2N01hUHZEVFVycVlIYzhadTh5VXhlcVZvUnB0cEZFNUZyQUFmbnBzcmtneWkyaWE0S01EWnVB?oc=5) |
 
 ## Sources surveillées (13)
 
