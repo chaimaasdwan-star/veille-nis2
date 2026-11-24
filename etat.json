@@ -1413,95 +1413,148 @@
    ],
    "date": "2026-11-19T08:00:00+00:00",
    "type": "article"
+  },
+  "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive#2026-11-24": {
+   "titre": "La page « Commission européenne - page NIS 2 » a été modifiée",
+   "lien": "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive",
+   "source": "Commission européenne - page NIS 2",
+   "pays": "UE",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-24T06:56:44.491228+00:00",
+   "type": "page modifiée"
+  },
+  "https://cyber.gouv.fr/actualites/#2026-11-24": {
+   "titre": "La page « ANSSI - actualités » a été modifiée",
+   "lien": "https://cyber.gouv.fr/actualites/",
+   "source": "ANSSI - actualités",
+   "pays": "France",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-24T06:56:47.462623+00:00",
+   "type": "page modifiée"
+  },
+  "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731#2026-11-24": {
+   "titre": "La page « Assemblée nationale - dossier loi Résilience (NIS 2) » a été modifiée",
+   "lien": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731",
+   "source": "Assemblée nationale - dossier loi Résilience (NIS 2)",
+   "pays": "France",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-24T06:56:51.677994+00:00",
+   "type": "page modifiée"
+  },
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjlXenpTUXF2SW1MOFlpdGVrYzZRdnJEclpka3pBaGpJR0lpSlM4Q2hGU212Z0NjdVJndHFxdy05bmZVWTZ5V2NwVUJleGctQ2tqb2xKX0E5bU1GR1RLZDNwdTREdF9IY2FvTFhDcy1xbkgyOUtZaERrOEJPQmtmd2ZXamExbnpId0t0emRoX3llTkt3UzR4YWlFZ9IBoAFBVV95cUxOWjBkRWpzWUlDeTBDaHluMW5Dc3JRbks2M0k0aFp1VV9sLURzRXREV2RvQ2ZMTXc1Y1k1U01OZEVWczZnamllMlJqSDZRbmV1cUxyRGxWSXhweTBwQ05aRGNhd1JPa0FRR2NySF9IXzZ0eWFPU05EemtYR2E4enZ2UFJDZnd3cHZuX1RxdnQxbEE5anVIY2VlMk05VDA3bHd0?oc=5": {
+   "titre": "NIS 2, le projet de loi de retour le 9 novembre - Silicon.fr",
+   "source": "Presse - NIS 2 (Google Actualités)",
+   "pays": "Presse",
+   "themes": [
+    "NIS 2"
+   ],
+   "date": "2026-11-05T08:00:00+00:00",
+   "type": "article"
+  },
+  "https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/59shwdhj5lz5nlvw5o0awtrlvle639bwq4o4blce.html": {
+   "titre": "[LEGIFRANCE] JORF No 0274 DU 24 NOVEMBRE 2026",
+   "source": "Journal officiel - sommaire quotidien",
+   "pays": "France",
+   "themes": [
+    "Agroalimentaire"
+   ],
+   "date": "2026-11-23T23:44:33+00:00",
+   "type": "article"
   }
  },
  "pages": {
-  "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive": "8963649c75403fabb3b324ca0259897ff07207e3223d5573c25b6975d2c1e939",
+  "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive": "8357a4eab5d36396164b8cc6139a415f96445583105162ef861676ff3e73fbe5",
   "https://www.enisa.europa.eu/news": "5f80cc5a3790a501788d6a8a0e109b317dddf43d34477860931a7540928a19a0",
   "https://cyber.gouv.fr/la-directive-nis-2": "1588947677ad671c313f45186d053550c52a1e268aec8537e786c4283418b554",
   "https://monespacenis2.cyber.gouv.fr/": "d984aabc418fbe2dfef21b6edafd89b1f115e2751985de473618a984a78464e4",
-  "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731": "724a6262c71fe3b79e3abfae6bbd13dd1108963766a40c9cdf5e623731dbc2ef",
-  "https://cyber.gouv.fr/actualites/": "0fadd2eff06e3958615b53b572fee5c18164846fad0d09c3ddeda1427e92f39a",
+  "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731": "abd29bfd195f9c08534afb3eca7e246cc6157fd8a077b79b4d5bbc5ae1791af0",
+  "https://cyber.gouv.fr/actualites/": "d02da382f5474b4cfb27f794358115d81343f121628bd7502b5abbb0b079ce02",
   "https://messervices.cyber.gouv.fr/nis2/": "d984aabc418fbe2dfef21b6edafd89b1f115e2751985de473618a984a78464e4"
  },
  "statut": {
   "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive": {
    "depuis": "2026-11-02T13:32:36.518909+00:00",
-   "dernier_changement": "2026-11-20T06:56:43.489002+00:00",
+   "dernier_changement": "2026-11-24T06:56:44.491212+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:49.470961+00:00"
+   "derniere_verif": "2026-11-24T06:56:44.491212+00:00"
   },
   "https://www.enisa.europa.eu/news": {
    "depuis": "2026-11-02T13:32:36.850106+00:00",
    "dernier_changement": "2026-11-11T06:53:47.898970+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:49.729514+00:00"
+   "derniere_verif": "2026-11-24T06:56:45.006832+00:00"
   },
   "https://cert.cyber.gouv.fr/feed/": {
    "depuis": "2026-11-02T13:32:37.138087+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:49.948528+00:00"
+   "derniere_verif": "2026-11-24T06:56:45.166590+00:00"
   },
   "https://www.service-public.gouv.fr/abonnements/rss/actu-actu-pro.rss": {
    "depuis": "2026-11-02T13:32:38.519383+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:51.432289+00:00"
+   "derniere_verif": "2026-11-24T06:56:46.723288+00:00"
   },
   "https://cyber.gouv.fr/actualites/": {
    "depuis": "2026-11-02T13:32:39.273270+00:00",
-   "dernier_changement": "2026-11-20T06:56:46.462853+00:00",
+   "dernier_changement": "2026-11-24T06:56:47.462608+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:51.944357+00:00"
+   "derniere_verif": "2026-11-24T06:56:47.462608+00:00"
   },
   "https://cyber.gouv.fr/la-directive-nis-2": {
    "depuis": "2026-11-02T13:32:40.165751+00:00",
    "dernier_changement": "2026-11-20T06:56:47.188777+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:52.857603+00:00"
+   "derniere_verif": "2026-11-24T06:56:48.691836+00:00"
   },
   "https://monespacenis2.cyber.gouv.fr/": {
    "depuis": "2026-11-02T13:32:41.777185+00:00",
    "dernier_changement": "2026-11-20T06:56:48.846961+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:54.549909+00:00"
+   "derniere_verif": "2026-11-24T06:56:50.176332+00:00"
   },
   "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731": {
    "depuis": "2026-11-02T13:32:42.343778+00:00",
-   "dernier_changement": "2026-11-18T06:57:42.018098+00:00",
+   "dernier_changement": "2026-11-24T06:56:51.677978+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:56.095840+00:00"
+   "derniere_verif": "2026-11-24T06:56:51.677978+00:00"
   },
   "https://news.google.com/rss/search?q=NIS2&hl=fr&gl=FR&ceid=FR:fr": {
    "depuis": "2026-11-02T13:32:42.896607+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:56.597267+00:00"
+   "derniere_verif": "2026-11-24T06:56:52.180597+00:00"
   },
   "https://news.google.com/rss/search?q=NIS2+agroalimentaire&hl=fr&gl=FR&ceid=FR:fr": {
    "depuis": "2026-11-02T13:32:43.181826+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:56.856497+00:00"
+   "derniere_verif": "2026-11-24T06:56:52.486243+00:00"
   },
   "https://kill-the-newsletter.com/feeds/xsvkrhjdxrg6xayccm5zncq5ha0naayexxddpzbl.xml": {
    "depuis": "2026-11-02T13:32:43.605091+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:57.512284+00:00"
+   "derniere_verif": "2026-11-24T06:56:53.071302+00:00"
   },
   "https://messervices.cyber.gouv.fr/nis2/": {
    "depuis": "2026-11-02T17:28:55.527890+00:00",
    "dernier_changement": "2026-11-20T06:56:49.829178+00:00",
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:55.546791+00:00"
+   "derniere_verif": "2026-11-24T06:56:51.073522+00:00"
   },
   "https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth.xml": {
    "depuis": "2026-11-02T17:39:12.129449+00:00",
    "dernier_changement": null,
    "ok": true,
-   "derniere_verif": "2026-11-23T07:11:58.364964+00:00"
+   "derniere_verif": "2026-11-24T06:56:53.847391+00:00"
   }
  }
 }
