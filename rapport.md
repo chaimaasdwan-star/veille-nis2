@@ -1,5 +1,5 @@
 # Veille NIS 2
-_Mise à jour : 24/11/2026 06:56 UTC — 142 élément(s) sur 60 jours_
+_Mise à jour : 25/11/2026 06:59 UTC — 143 élément(s) sur 60 jours_
 
 ## UE
 
@@ -16,6 +16,7 @@ _Mise à jour : 24/11/2026 06:56 UTC — 142 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-24 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0275 DU 25 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/7zr8avnn3ry7p7uspgugyavq1q4lyte0p7y9iezp.html) |
 | 2026-11-24 | NIS 2 | Assemblée nationale - dossier loi Résilience (NIS 2) | [La page « Assemblée nationale - dossier loi Résilience (NIS 2) » a été modifiée](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731) |
 | 2026-11-24 | NIS 2 | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
 | 2026-11-23 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0274 DU 24 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/59shwdhj5lz5nlvw5o0awtrlvle639bwq4o4blce.html) |
@@ -73,6 +74,7 @@ _Mise à jour : 24/11/2026 06:56 UTC — 142 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-25 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Loi Résilience et NIS 2, le guichet unique ANSSI-CNIL adopté - Linformatique.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHFRVWpETldvVWQ3eThMZXFqVEJkMDNYWVlOSzJvTlpUZ0tlcHhMd1JJakYxUlNUVFFPNVFCVTV6eGR1MUdFVVl4OWk1bkc3T3E0TWxhYmh5UWt2Nkoyazk5UEF1N3REN01oRDFWOWhjQnRodXM2WmotZlpGTllOSEhB?oc=5) |
 | 2026-11-20 | NIS 2 | Presse - NIS 2 (Google Actualités) | [NIS2 et loi Résilience : pourquoi attendre est un risque pour les entreprises et nos données - JDN](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUzJGSzhkVkR2aEtOSGJLd1BnRnY0NHpTbjlUeWlrWklEQl9OX1JsbnBITlhNQkpqTnBXa1lEUkxuejc4Qk04S2d2eEFYOUFGcm5HeWV0eHFqLW1pVkdsQ3Z5ZDBNeFVyNC1zbGtjNXdBNnVYc3pFM19jb0k2b3RhcmZrajhEQmV4VFNrOXEwX0pZU2JXbTE2eEZieVRoV3daMF9nWmNHdWE0QnFUUm50bzNMQlVVVHpSRGZVTzN1QjNwS0ZQNDRhaS00bzhCTlZlemVKTVVjNWFUQQ?oc=5) |
 | 2026-11-19 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Lecornu présente un plan de renforcement de la cybersécurité - Le Journal des Français](https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDNmRlo0dFBEVk9nbzRBcXpkcTQ0V3VYQVBicVZ6LWp5NFh4V3VFZU44TkxKOWhtVFFRRG53dEh1SkwwMEc3MXVxTVJhWjVOZWhsbjNCTGpLR2txNFNPTDIxS3JEV21WMk5ReWdhby1oNVo5SUpGR29wV3JuVEdUbi05bFVYYU5SS2xOY1NDN3A?oc=5) |
 | 2026-11-19 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Alexandre Diehl, avocat, Jean-Baptiste Artignan, BlueSecure : NIS2 : après deux ans d’attente, ne faisons pas de la cybersécurité une conformité de plus - ZDNET](https://news.google.com/rss/articles/CBMikAJBVV95cUxQeFNKcTVPUHlONnJXXzhjc1JqYXQtVjZaMElUQURxYlFJQklXZnBiay1FX2gwbXdaWVZQNk1QRHl1RVRITlNBYWYwZmNKdU15OGczYk5mTFZhVVhnbXhmdWw1VXRsa09Eczh3YjZ0ajlsblAwY1paamFWZkVLVXptWXlJd1pIQ0VjeGt2RmF2VGp5Ni1ZOWwyZWN4QTBiM2xfVUNtY2NPdy04YURqMFU3NEsxMXZjOGlCRkxsSi1YdUFLNGxYT2t2NElsREhMdlI4Tjl3S1VRSFhwRmtDTndxMTJkUEZIZUZERjFXY3hic1Z6TjE1OHJmRzFWTGtNU2ZHd3dOVno0WUhvNkh6b2oxQQ?oc=5) |
@@ -156,7 +158,6 @@ _Mise à jour : 24/11/2026 06:56 UTC — 142 élément(s) sur 60 jours_
 | 2026-10-02 | NIS 2 | Presse - NIS 2 (Google Actualités) | [La transposition de NIS 2 entre dans sa phase finale - ChannelNews](https://news.google.com/rss/articles/CBMijwFBVV95cUxNNENaZ3pONWdsSjVZZWdlR1hoUk1hYlp2dGpuOUFLaWdscEhkUzRSOXBIa1NQSVNac2NSRFZ2U0RBTzhJVThTNEVpbGJ6VUd1OTdham5qV1VlUW44dzcyb212a2k0WHU4WU8yUnVmemc2VFNVUVRfUW5vSnVWdThaTGx1SXBCQVpubnlmZnltcw?oc=5) |
 | 2026-10-02 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Panorama NIS2 : un défaut d’inventaire plus qu’une incapacité à remédier - ITforBusiness.fr](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdENwMDhPcDRGMy05M1I5SzltUFQzcldfby12UGNfWFpMak5KMWxNM2xFRmRCcFNaRkg4QW9NdS1jaXlFRVJVSTMwRUszc3BzampPdFh6NGE0UVdWMkhEYU42ZVhYWU5uU3Fna0VnczhNaV9sN21pUDlfSWJtSWFabU8yLVlvQVRFU0pubnpLYXpBLUlCNEVmV0VueVZjYU5SNWhUZ3BpNA?oc=5) |
 | 2026-10-01 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Transposition NIS 2 France : entreprises concernées, date et ce que le droit impose déjà - Kohen Avocats](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFB2TlpYMVlNbmpiQjhqWHNTRnl3M3RXU09mSlREdmRKUzJKTFM5MVFCYVNJdTJzcmVzSWRkWEpVSVVTSzZhSERfZnBOSmRnWlFwWHRRR1hBbW56UkhWbUZibXM4N0JmSEl6YVNPZl9fWHpSNU1GdnE0dnZza3pGTnRUeE9jczBpb1NpRnBsdkoyU3ItQm96aW1EMzd0enVhOXVYdkg0RnFBZjV4?oc=5) |
-| 2026-09-25 | NIS 2 | Presse - NIS 2 (Google Actualités) | [Cybersécurité : « Nous aimerions que cela ruisselle » vers les plus petites communes - Philippe Latombe, député - La Gazette des Communes](https://news.google.com/rss/articles/CBMioAJBVV95cUxQTVMySDBXcUpTLU1ZRlhUV2psRG5GZ2Q3Q3RZRGJYOHprMmxobTV5TWtUUm5BSFNidlBfVjJ6VmtvMWZVMUpnbkRvLWJzVWpuN3ZSQU55Um9mUWU4d2lXTDY1YWdGVmt0T09pbnc0c3RtdWpJMHF4Z1JEYWozbTJKNGgtU2k2RVVwMnJ6V0R3OWtwTjJyTG5scHFuVGJBYlBZZmpzOFk1RnZqNnpaLWZWclpUQy1FalVYNWNXR0t3c0ZYSExRbVRNaTNoOWMtU2p5Y3UyNzRlR2JJWE5VVWpIZ3NOeXpsYWpsLUtmZWZrUXFuREtjNjdBOUpNSGVXX2xxMTZ6OUpkb216WVlhTFJlUGRSUHA0eENZaS1UamlGQW8?oc=5) |
 
 ## Sources surveillées (13)
 
