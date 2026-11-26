@@ -1,5 +1,5 @@
 # Veille NIS 2
-_Mise à jour : 25/11/2026 06:59 UTC — 143 élément(s) sur 60 jours_
+_Mise à jour : 26/11/2026 06:58 UTC — 146 élément(s) sur 60 jours_
 
 ## UE
 
@@ -16,6 +16,9 @@ _Mise à jour : 25/11/2026 06:59 UTC — 143 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-26 | (à vérifier) | ANSSI - page NIS 2 | [La page « ANSSI - page NIS 2 » a été modifiée](https://cyber.gouv.fr/la-directive-nis-2) |
+| 2026-11-26 | (à vérifier) | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
+| 2026-11-26 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0276 DU 26 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/yos4hhp0r078ksjdpuu2m4mfoed7gq1rta1hcpyj.html) |
 | 2026-11-24 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0275 DU 25 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/7zr8avnn3ry7p7uspgugyavq1q4lyte0p7y9iezp.html) |
 | 2026-11-24 | NIS 2 | Assemblée nationale - dossier loi Résilience (NIS 2) | [La page « Assemblée nationale - dossier loi Résilience (NIS 2) » a été modifiée](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731) |
 | 2026-11-24 | NIS 2 | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
