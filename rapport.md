@@ -1,5 +1,5 @@
 # Veille NIS 2
-_Mise à jour : 27/11/2026 06:59 UTC — 151 élément(s) sur 60 jours_
+_Mise à jour : 28/11/2026 06:54 UTC — 154 élément(s) sur 60 jours_
 
 ## UE
 
@@ -16,6 +16,9 @@ _Mise à jour : 27/11/2026 06:59 UTC — 151 élément(s) sur 60 jours_
 
 | Date | Thème | Source | Titre |
 |---|---|---|---|
+| 2026-11-28 | NIS 2 | ANSSI - page NIS 2 | [La page « ANSSI - page NIS 2 » a été modifiée](https://cyber.gouv.fr/la-directive-nis-2) |
+| 2026-11-28 | NIS 2 | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
+| 2026-11-27 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0278 DU 28 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/gf8hbc9pvntr3nn8n1q4xssih1wfv50ybavtjzes.html) |
 | 2026-11-27 | NIS 2 | ANSSI - page NIS 2 | [La page « ANSSI - page NIS 2 » a été modifiée](https://cyber.gouv.fr/la-directive-nis-2) |
 | 2026-11-27 | NIS 2 | ANSSI - actualités | [La page « ANSSI - actualités » a été modifiée](https://cyber.gouv.fr/actualites/) |
 | 2026-11-26 | Agroalimentaire | Journal officiel - sommaire quotidien | [[LEGIFRANCE] JORF No 0277 DU 27 NOVEMBRE 2026](https://kill-the-newsletter.com/feeds/94qldn9tgfsjr78nkstg63mg9mlnjh5rel2pueth/entries/qyplc3ug1wgrs4e7y47k4iyrgf6bxt24c7kxac0v.html) |
